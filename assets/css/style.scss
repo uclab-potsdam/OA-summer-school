@@ -2,4 +2,7 @@
 ---
 
 @import "{{ 'jekyll-theme-cayman' }}";
-#btn {display: none;}
+.btn {display: none;}
+.page-header {
+    background: #191c20;
+}
