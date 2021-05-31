@@ -3,11 +3,11 @@
 <div class ="row">
 
 <div class="column left">
-### What if the results from publicly funded research were freely available to everyone?
+<h1>What if the results from publicly funded research were freely available to everyone?</h1>
 
-    Open Access represents this vision of unrestricted access and use of scholarly publications and further research materials freely available worldwide without any legal, technical or financial barriers. 
-    
-    Germany supports this idea at both the federal and state levels. Numerous research and higher education institutions have already issued open access policies and guidelines. Together with their libraries, they engage in open access advocacy activities and offer consultancy on issues related to open access to students and researchers. They build open access repositories and manage publication funds to cover open access publication costs. The project open-access.network collects data on individual institutions at federal state level as well as strategic political activities to showcase best practices and provide an overview of the open access activities.
+  <p>  Open Access represents this vision of unrestricted access and use of scholarly publications and further research materials freely available worldwide without any legal, technical or financial barriers. 
+    <br>
+    Germany supports this idea at both the federal and state levels. Numerous research and higher education institutions have already issued open access policies and guidelines. Together with their libraries, they engage in open access advocacy activities and offer consultancy on issues related to open access to students and researchers. They build open access repositories and manage publication funds to cover open access publication costs. The project open-access.network collects data on individual institutions at federal state level as well as strategic political activities to showcase best practices and provide an overview of the open access activities.</p>
  </div>
 
 <div class="column middle">
@@ -16,6 +16,8 @@ The Summer School will focus on visualizing open access in Germany (Open Access 
 
 <div class="column right">
 [Link button](http://example.com/){: .btn}
+<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+
 
 See full schedule
 </div>
@@ -34,8 +36,10 @@ See full schedule
 
 ###Schedule
 
-<div class="column left">
-<table style="left">
+<div class ="row">
+
+<div>
+<table>
   <tr>
     <th colspan="2">Monday, 6th September 2021</th> 
   </tr>
@@ -74,7 +78,7 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
   </tr>
 </table>
  </div>
-
+<br>
 <div class="column middle">
 <table style="left">
   <tr>
