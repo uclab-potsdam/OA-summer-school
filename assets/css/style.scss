@@ -31,22 +31,3 @@ width: 33%;
 .right {
 width: 33%;
 }
-
-.columnabout {
-    float: left;
-    }
-    
-    /* Set width length for the left, right and middle columns */
-    .left {
-    width: 50%;
-    }
-    
-    .right {
-    width: 50%;
-    }
-    
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }

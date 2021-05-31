@@ -13,12 +13,10 @@ The Summer School will focus on visualizing open access in Germany (Open Access 
 </div>
 
 <div class="column right">
-[Link button](http://example.com/){: .btn}
-<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+<a href="{{  }}" class="btn">See selected schedule</a>
 
 <br>
 
-See full schedule
 </div>
 <br>
 
@@ -300,7 +298,7 @@ Please use your university-email address for the application and do not forget t
 
 The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.
 
-<div class="columnabout left">
+<div>
 
   <p>  Name, Surname <br> Role <br>
             <br>
@@ -314,7 +312,7 @@ The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univ
     </p>
  </div>
 
-<div class="columnabout right">
+<div>
 
   <p> Stay updated <br> Twitter <br>
 
