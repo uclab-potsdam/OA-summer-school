@@ -1,3 +1,4 @@
+<section>
 
 <div class="intro">
 
@@ -25,7 +26,10 @@ See full schedule
 
 </div>
 
+
+
 <br>
+
 
 <div>
 
@@ -33,7 +37,11 @@ See full schedule
 
 </div>
 
+</section>
+
 <br>
+
+<section>
 
 <div>
 
@@ -249,10 +257,11 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
 </div>
 
-
+</section>
 
 <br>
 
+<section>
 
 <div>
 
@@ -279,7 +288,12 @@ Please use your university-email address for the application and do not forget t
 
 
 </div>
+
+</section>
+
 <br>
+
+<section>
 
 <div>
 
@@ -321,3 +335,5 @@ Please use your university-email address for the application and do not forget t
  </div>
 
 </div>
+
+</section>
