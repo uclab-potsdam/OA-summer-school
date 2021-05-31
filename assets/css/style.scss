@@ -7,3 +7,29 @@
     background: #191c20;
     background-image: linear-gradient(120deg, #191c20 , $header-bg-color);
 }
+{
+    box-sizing: border-box;
+}
+/* Set additional styling options for the columns */
+.column {
+float: left;
+}
+
+/* Set width length for the left, right and middle columns */
+.left {
+width: 20%;
+}
+
+.middle {
+width: 30%;
+}
+
+.right {
+width: 50%;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
