@@ -1,7 +1,3 @@
-<section>
-
-<div class ="row">
-
 <div class="column left">
 <h1>What if the results from publicly funded research were freely available to everyone?</h1>
 
@@ -21,18 +17,14 @@ The Summer School will focus on visualizing open access in Germany (Open Access 
 
 See full schedule
 </div>
-
-</div>
-
+<br>
 <div>
 
 <em>Please note: The Summer School will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at FH Potsdam, FU Berlin and HU Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.</em>
 
 </div>
 
-</section>
-
-<section>
+<br>
 
 ![Image](src)
 
@@ -40,10 +32,8 @@ See full schedule
 
 Preliminary workshops and keynotes, full schedule to be released upon registration.
 
-<div class ="row">
-
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Monday, 6th September 2021</th> 
   </tr>
@@ -73,9 +63,11 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
 </table>
 
  </div>
+
 <br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Tuesday, 7th September 2021</th>  
   </tr>
@@ -91,8 +83,10 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
 </table>
 </div>
 
+<br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Wednesday, 8th September 2021</th> 
   </tr>
@@ -108,8 +102,10 @@ applied part with exercises or a more explicit project direction (Rawgraphs + de
         </table>
 </div>
 
+<br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Thursday, 9th September 2021</th> 
   </tr>
@@ -129,8 +125,10 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
  </div>
 
+ <br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Friday, 10th September 2021</th> 
   </tr>
@@ -145,8 +143,10 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
 </div>
 
+<br>
+
 <div>
-<table style="left">
+<table style="width:100%">
   <tr>
     <th colspan="2">Monday, 13th September 2021</th> 
   </tr>
@@ -157,8 +157,10 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
  </div>
 
+<br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Tuesday, 14th September 2021</th> 
   </tr>
@@ -169,8 +171,10 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
 </div>
 
+<br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Wednesday, 15th September 2021</th> 
   </tr>
@@ -189,8 +193,10 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
 </div>
 
+<br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Thursday, 16th September 2021</th> 
   </tr>
@@ -209,8 +215,10 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
  </div>
 
+ <br>
+
 <div>
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2">Friday, 17th September 2021</th> 
   </tr>
@@ -229,22 +237,28 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
 </div>
 
-</section>
-
-<section>
+<br>
 
 ![Image](src)
 
 ### Application
 
+<br>
+
 <span style="background-color: #FFFF00">Deadline for applications on 20.08!</span>
+
+<br>
 
 Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation! 
 The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.  
 The deadline for your submission is 15. July 2021. To apply, please send in your application to the following address: oabb@open-access-berlin.de. 
 Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file. 
 
+<br>
+
 [Link button](http://example.com/){: .btn}
+
+<br>
 
 ```markdown
 
@@ -252,9 +266,14 @@ Please use your university-email address for the application and do not forget t
 
 
 ```
+<br>
 
 ![Image](src)![Image](src)
 
+<br>
+
 ### About
+
+<br>
 
 The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.
