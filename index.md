@@ -1,6 +1,4 @@
-<section>
-
-<div class="intro">
+<div class="row">
 
 <div class="column left">
 <h2>What if the results from publicly funded research were freely available to everyone?</h2>
@@ -15,7 +13,7 @@
 </div>
 
 <div class="column right">
-<p1>
+<p>
 
 <a href="{{  }}" class="btn">Apply now</a>
 <br>
@@ -25,8 +23,6 @@ See full schedule
 </div>
 
 </div>
-
-
 
 <br>
 
