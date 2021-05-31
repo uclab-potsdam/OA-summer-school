@@ -45,7 +45,7 @@ See full schedule
 
 insert image here
 
-<h2>Schedule</h>
+<h2>Schedule</h2>
 
 <p>Preliminary workshops and keynotes, full schedule to be released upon registration.</p>
 </div>
@@ -266,7 +266,7 @@ Hands-on Session: Vis with Python/Jupyter</td>
 
 insert image
 
-<h2>Application</h>
+<h2>Application</h2>
 
 <br>
 
@@ -295,7 +295,7 @@ Please use your university-email address for the application and do not forget t
 
 <div>
 
-<h2>About<h>
+<h2>About</h2>
 
 <p2>The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.</p2>
 
