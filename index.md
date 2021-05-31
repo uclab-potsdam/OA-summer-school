@@ -42,13 +42,15 @@ See full schedule
 
 <br>
 
-<section>
+
 
 ![Image](src)
 
 ### Schedule
 
 Preliminary workshops and keynotes, full schedule to be released upon registration.
+
+<section>
 
 <div>
 <table style="width:100%">
@@ -260,11 +262,13 @@ Hands-on Session: Vis with Python/Jupyter</td>
 
 </section>
 
-<section>
+
 
 ![Image](src)
 
 ### Application
+
+<section>
 
 <br>
 
@@ -272,41 +276,33 @@ Hands-on Session: Vis with Python/Jupyter</td>
 
 <br>
 
-Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation! 
+<p>Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation! 
 The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.  
 The deadline for your submission is 15. July 2021. To apply, please send in your application to the following address: oabb@open-access-berlin.de. 
-Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file. 
+Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file. <p>
 
-<br>
+</section>
 
 [Link button](http://example.com/){: .btn}
 
-<br>
 
 ```markdown
 
 
 
 
+
 ```
-
-</section>
-
-<br>
-
-<section>
 
 ![Image](src)![Image](src)
 
-<br>
-
 ### About
-
-<br>
 
 The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.
 
-<div>
+<div class="about">
+
+<div class="columnabout left">
 
   <p>  Name, Surname <br> Role <br>
             <br>
@@ -322,6 +318,8 @@ The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univ
 
 <div>
 
+<div class="columnabout right">
+
   <p> Stay updated <br> Twitter <br>
 
   Affiliations
@@ -333,6 +331,6 @@ The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univ
     </p>
  </div>
 
-
+</div>
 
 </section>
