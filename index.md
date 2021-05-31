@@ -66,8 +66,7 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
     </td>
 <tr>
     <td>11:45 - 12:30</td>
-    <td>OA as a research topic for Library and Information Science (Maxi Kindling, Ben Kaden)
-</td>
+    <td>OA as a research topic for Library and Information Science (Maxi Kindling, Ben Kaden)</td>
   </tr>
 <tr>
     <td>14:00 - 15:00</td>
@@ -197,16 +196,16 @@ Hands-on Session: Vis with Python/Jupyter</td>
     <th colspan="2">Wednesday, 15th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
 </table>
 </div>
@@ -219,16 +218,16 @@ Hands-on Session: Vis with Python/Jupyter</td>
     <th colspan="2">Thursday, 16th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
 </table>
  </div>
@@ -241,16 +240,16 @@ Hands-on Session: Vis with Python/Jupyter</td>
     <th colspan="2">Friday, 17th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
 </table>
 </div>
