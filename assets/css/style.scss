@@ -2,7 +2,14 @@
 ---
 
 @import "{{ 'jekyll-theme-cayman' }}";
-.btn {display: none;}
+.btn {background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
 .page-header {
     background: #191c20;
     background-image: linear-gradient(120deg, #191c20 , $header-bg-color);
@@ -14,15 +21,15 @@ float: left;
 
 /* Set width length for the left, right and middle columns */
 .left {
-width: 20%;
+width: 33%;
 }
 
 .middle {
-width: 30%;
+width: 33%;
 }
 
 .right {
-width: 50%;
+width: 33%;
 }
 
 .row:after {
@@ -30,3 +37,4 @@ content: "";
 display: table;
 clear: both;
 }
+
