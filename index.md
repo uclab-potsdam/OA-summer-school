@@ -1,4 +1,3 @@
-<section>
 
 <div class="intro">
 
@@ -322,5 +321,3 @@ Please use your university-email address for the application and do not forget t
  </div>
 
 </div>
-
-</section>
