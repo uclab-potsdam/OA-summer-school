@@ -21,11 +21,12 @@ The Summer School will focus on visualizing open access in Germany (Open Access 
 See full schedule
 </div>
 <br>
-<div>
 
 </section>
 
 <section>
+
+<div>
 
 <em>Please note: The Summer School will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at FH Potsdam, FU Berlin and HU Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.</em>
 
@@ -300,7 +301,6 @@ Please use your university-email address for the application and do not forget t
 The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.
 
 <div class="columnabout left">
-<h1>What if the results from publicly funded research were freely available to everyone?</h1>
 
   <p>  Name, Surname <br> Role <br>
             <br>
@@ -315,13 +315,12 @@ The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univ
  </div>
 
 <div class="columnabout right">
-<h1>What if the results from publicly funded research were freely available to everyone?</h1>
 
   <p> Stay updated <br> Twitter <br>
 
   Affiliations
 
-  
+
 
     
     <br>
