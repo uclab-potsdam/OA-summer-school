@@ -1,5 +1,7 @@
 <section>
 
+<div class="intro">
+
 <div class="column left">
 <h1>What if the results from publicly funded research were freely available to everyone?</h1>
 
@@ -13,11 +15,17 @@ The Summer School will focus on visualizing open access in Germany (Open Access 
 </div>
 
 <div class="column right">
-<a href="{{  }}" class="btn">See selected schedule</a>
+<p>
 
+<a href="{{  }}" class="btn">Apply now</a>
 <br>
+See full schedule 
+<br>
+</p>
+</div>
 
 </div>
+
 <br>
 
 </section>
