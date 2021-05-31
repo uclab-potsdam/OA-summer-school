@@ -305,7 +305,7 @@ Please use your university-email address for the application and do not forget t
 
 <div class="about">
 
-<div class="aboutleft">
+<div class="left">
 
   <p>  Name, Surname <br> Role <br>
             <br>
@@ -321,7 +321,7 @@ Please use your university-email address for the application and do not forget t
 
 <div>
 
-<div class="aboutright">
+<div class="right">
 
   <p> Stay updated <br> Twitter <br>
 
