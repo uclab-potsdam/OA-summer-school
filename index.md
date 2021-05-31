@@ -26,7 +26,7 @@ See full schedule
 
 <div>
 
-*Please note: The Summer School will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at FH Potsdam, FU Berlin and HU Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.*
+<em>Please note: The Summer School will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at FH Potsdam, FU Berlin and HU Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.</em>
 
 </div>
 
@@ -34,7 +34,11 @@ See full schedule
 
 <section>
 
-###Schedule
+![Image](src)
+
+### Schedule
+
+Preliminary workshops and keynotes, full schedule to be released upon registration.
 
 <div class ="row">
 
@@ -42,10 +46,6 @@ See full schedule
 <table>
   <tr>
     <th colspan="2">Monday, 6th September 2021</th> 
-  </tr>
-  <tr>
-    <td>9:00AM - 10:00</td>
-    <td>Registration and welcome</td>
   </tr>
   <tr>
     <td>10:00 - 11:00</td>
@@ -66,255 +66,178 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
     <td>Introduction to the data set - Bundesländer-Atlas (Open-Access-Büro Berlin)</td>
   </tr>
 <tr>
-    <td>15:00 - 16:30</td>
-    <td>Team Building / Sketching Exercise 
-</td>
-  </tr>
-<tr>
     <td>16:30 - 18:00</td>
-    <td>Evening Keynote
-?Johanna Drucker, Interpretation of/with Data Visualization?
+    <td>Evening Keynote: ?Johanna Drucker, Interpretation of/with Data Visualization?
 </td>
   </tr>
 </table>
+
  </div>
 <br>
-<div class="column middle">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
+    <th colspan="2">Tuesday, 7th September 2021</th>  
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>09:30 - 10:30</td>
+    <td>Lecture: How to run a data viz project - methods, tools, guidelines 
+(Claudia Müller-Birn/FU Berlin) (online lecture)</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>10:30 - 12:00</td>
+    <td>Workshop: Reflecting on Data Viz Case Studies (HCC/FU Berlin) (online)</td>
   </tr>
 </table>
 </div>
 
-<div class="column right">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Wednesday, 8th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>09:30 - 12:00</td>
+    <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>13:30 - 15:30</td>
+    <td>Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
+applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)</td>
   </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
+        </table>
 </div>
 
-<div class="column left">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Thursday, 9th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>09:30 - 10:15</td>
+    <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>10:15 - 12:00</td>
+    <td>Workshop: Visualization Coding (Arran Ridley, Francesca Morini)
+Hands-on Session: Vis with Python/Jupyter</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>13:30 - 15:00</td>
+    <td>Workshop: Visualization Coding II (Arran Ridley)</td>
   </tr>
 </table>
  </div>
 
-<div class="column middle">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Friday, 10th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>All day</td>
+    <td>Project work and interim presentations</td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <tr>
+    <td>16:00 - 17:30</td>
+    <td>Evening Keynote TBC</td>
   </tr>
 </table>
 </div>
 
-<div class="column right">
-</div>
-
-<div class="column left">
+<div>
 <table style="left">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Monday, 13th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>09:30 - 12:00 Open Access data analysis with R (Dorothea Strecker)</td>
     <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
   </tr>
 </table>
  </div>
 
-<div class="column middle">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Tuesday, 14th September 2021</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>09:30 - 10:15</td>
+    <td>Lecture: Visualisation as an epistemic tool (Linda Freyberg)</td>
   </tr>
 </table>
 </div>
 
-<div class="column right">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Wednesday, 15th September 2021</th> 
   </tr>
   <tr>
     <td>Jill</td>
     <td>Smith</td>
-    <td>50</td>
   </tr>
   <tr>
     <td>Eve</td>
     <td>Jackson</td>
-    <td>94</td>
   </tr>
   <tr>
     <td>John</td>
     <td>Doe</td>
-    <td>80</td>
   </tr>
 </table>
 </div>
 
-<div class="column left">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Thursday, 16th September 2021</th> 
   </tr>
   <tr>
     <td>Jill</td>
     <td>Smith</td>
-    <td>50</td>
   </tr>
   <tr>
     <td>Eve</td>
     <td>Jackson</td>
-    <td>94</td>
   </tr>
   <tr>
     <td>John</td>
     <td>Doe</td>
-    <td>80</td>
   </tr>
 </table>
  </div>
 
-<div class="column middle">
-<table style="left">
+<div>
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th colspan="2">Friday, 17th September 2021</th> 
   </tr>
   <tr>
     <td>Jill</td>
     <td>Smith</td>
-    <td>50</td>
   </tr>
   <tr>
     <td>Eve</td>
     <td>Jackson</td>
-    <td>94</td>
   </tr>
   <tr>
     <td>John</td>
     <td>Doe</td>
-    <td>80</td>
   </tr>
 </table>
-</div>
-
-<div class="column right">
 </div>
 
 </section>
 
 <section>
 
+![Image](src)
+
 ### Application
 
-Deadline for applications on 20.08!
+<span style="background-color: #FFFF00">Deadline for applications on 20.08!</span>
 
 Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation! 
 The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.  
@@ -323,24 +246,15 @@ Please use your university-email address for the application and do not forget t
 
 [Link button](http://example.com/){: .btn}
 
+```markdown
+
+
+
+
+```
+
+![Image](src)![Image](src)
+
 ### About
 
 The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
