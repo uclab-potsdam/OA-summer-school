@@ -1,9 +1,9 @@
-<section>
+
 
 <div class="intro">
 
 <div class="column left">
-<h1>What if the results from publicly funded research were freely available to everyone?</h1>
+<h2>What if the results from publicly funded research were freely available to everyone?</h2>
 
   <p>  Open Access represents this vision of unrestricted access and use of scholarly publications and further research materials freely available worldwide without any legal, technical or financial barriers. 
     <br>
@@ -11,7 +11,7 @@
  </div>
 
 <div class="column middle">
-The Summer School will focus on visualizing open access in Germany (Open Access Bundesländer-Atlas) and beyond to raise awareness of this transformation in academic publishing. This Summer School aims at providing students with an introduction to principles and methods of information visualization combined with an opportunity to apply general principles to specific visualization designs to exemplary use cases such as Open Access Bundesländer-Atlas. Lectures with experts from the fields of human-computer interaction, information science, and interface design from the cooperating institutions cover the topics of the fundamentals of information visualization e.g. mapping data to visual variables, and techniques for visualizing multidimensional, relational and textual data as well as an introduction to the concept of open access. Students will closely collaborate in small, interdisciplinary teams. The hands-on session tutorials complement the inputs during the lectures with practical activities and assignments directed towards a visual representation of the data. The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Universität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project “Kompetenzentwicklung Open Access Brandenburg” will also be involved in the Summer School.
+<p>The Summer School will focus on visualizing open access in Germany (Open Access Bundesländer-Atlas) and beyond to raise awareness of this transformation in academic publishing. This Summer School aims at providing students with an introduction to principles and methods of information visualization combined with an opportunity to apply general principles to specific visualization designs to exemplary use cases such as Open Access Bundesländer-Atlas. Lectures with experts from the fields of human-computer interaction, information science, and interface design from the cooperating institutions cover the topics of the fundamentals of information visualization e.g. mapping data to visual variables, and techniques for visualizing multidimensional, relational and textual data as well as an introduction to the concept of open access. Students will closely collaborate in small, interdisciplinary teams. The hands-on session tutorials complement the inputs during the lectures with practical activities and assignments directed towards a visual representation of the data. The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Universität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project “Kompetenzentwicklung Open Access Brandenburg” will also be involved in the Summer School.</p>
 </div>
 
 <div class="column right">
@@ -28,9 +28,7 @@ See full schedule
 
 <br>
 
-</section>
 
-<section>
 
 <div>
 
@@ -38,7 +36,7 @@ See full schedule
 
 </div>
 
-</section>
+
 
 <br>
 
@@ -50,7 +48,7 @@ See full schedule
 
 Preliminary workshops and keynotes, full schedule to be released upon registration.
 
-<section>
+
 
 <div>
 <table style="width:100%">
@@ -256,11 +254,11 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
 </div>
 
-</section>
+
 
 <br>
 
-</section>
+
 
 
 
@@ -268,7 +266,7 @@ Hands-on Session: Vis with Python/Jupyter</td>
 
 ### Application
 
-<section>
+
 
 <br>
 
@@ -281,7 +279,6 @@ The 25 participants of the Summer School will be preferably equally chosen from 
 The deadline for your submission is 15. July 2021. To apply, please send in your application to the following address: oabb@open-access-berlin.de. 
 Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file. <p>
 
-</section>
 
 [Link button](http://example.com/){: .btn}
 
@@ -302,7 +299,7 @@ The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univ
 
 <div class="about">
 
-<div class="columnabout left">
+<div class="aboutleft">
 
   <p>  Name, Surname <br> Role <br>
             <br>
@@ -318,7 +315,7 @@ The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univ
 
 <div>
 
-<div class="columnabout right">
+<div class="aboutright">
 
   <p> Stay updated <br> Twitter <br>
 
@@ -333,4 +330,3 @@ The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univ
 
 </div>
 
-</section>
