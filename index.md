@@ -1,3 +1,5 @@
+<section>
+
 <div class="column left">
 <h1>What if the results from publicly funded research were freely available to everyone?</h1>
 
@@ -14,17 +16,26 @@ The Summer School will focus on visualizing open access in Germany (Open Access 
 [Link button](http://example.com/){: .btn}
 <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
 
+<br>
 
 See full schedule
 </div>
 <br>
 <div>
 
+</section>
+
+<section>
+
 <em>Please note: The Summer School will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at FH Potsdam, FU Berlin and HU Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.</em>
 
 </div>
 
+</section>
+
 <br>
+
+<section>
 
 ![Image](src)
 
@@ -152,7 +163,6 @@ Hands-on Session: Vis with Python/Jupyter</td>
   </tr>
   <tr>
     <td>09:30 - 12:00 Open Access data analysis with R (Dorothea Strecker)</td>
-    <td>Smith</td>
   </tr>
 </table>
  </div>
@@ -237,7 +247,13 @@ Hands-on Session: Vis with Python/Jupyter</td>
 </table>
 </div>
 
+</section>
+
 <br>
+
+</section>
+
+<section>
 
 ![Image](src)
 
@@ -266,7 +282,12 @@ Please use your university-email address for the application and do not forget t
 
 
 ```
+
+</section>
+
 <br>
+
+<section>
 
 ![Image](src)![Image](src)
 
@@ -277,3 +298,5 @@ Please use your university-email address for the application and do not forget t
 <br>
 
 The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.
+
+</section>
