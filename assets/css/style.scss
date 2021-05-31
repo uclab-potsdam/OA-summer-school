@@ -32,8 +32,12 @@ width: 33%;
 width: 33%;
 }
 
-.row:after {
+.intro:after {
     content: "";
     display: table;
     clear: both;
     }
+
+p {
+        padding: 35px;
+      }
