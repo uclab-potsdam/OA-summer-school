@@ -299,13 +299,10 @@ Please use your university-email address for the application and do not forget t
 
 <p2>The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.</p2>
 
-</div>
 
-<div class="about">
-
-<div class="aboutleft">
-
-  <p>  Name, Surname <br> Role <br>
+<div class="row">
+    <div class="about">
+        <p>  Name, Surname <br> Role <br>
             <br>
 
         Name, Surname <br> Role <br>
@@ -315,13 +312,9 @@ Please use your university-email address for the application and do not forget t
             <br>
 
     </p>
- </div>
-
-<div>
-
-<div class="aboutright">
-
-  <p> Stay updated <br> Twitter <br>
+    </div>
+    <div class="about">
+        <p> Stay updated <br> Twitter <br>
 
   Affiliations
 
