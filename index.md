@@ -6,10 +6,10 @@ layout: default
 <div class="row">
 
 <div class="column left">
-<h2>What if the results from publicly funded research were freely available to everyone?</h2>
+<h2 class="initial-quote">What if the results from publicly funded research were freely available to everyone?</h2>
 
   <p>  Open Access represents this vision of unrestricted access and use of scholarly publications and further research materials freely available worldwide without any legal, technical or financial barriers. 
-    <br>
+    <!-- <br> -->
     Germany supports this idea at both the federal and state levels. Numerous research and higher education institutions have already issued open access policies and guidelines. Together with their libraries, they engage in open access advocacy activities and offer consultancy on issues related to open access to students and researchers. They build open access repositories and manage publication funds to cover open access publication costs. The project open-access.network collects data on individual institutions at federal state level as well as strategic political activities to showcase best practices and provide an overview of the open access activities.</p>
  </div>
 

@@ -2,39 +2,108 @@
 ---
 
 @import "{{ 'jekyll-theme-cayman' }}";
-body {
-    color: #240F56;
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Work+Sans:ital@0;1&display=swap');
+$blue: #240F56;
+$peach: #F9BB94;
+
+
+.page-header {
+    background: $peach;
+    color: $blue;
+    background: url(images/OASummer_logoblue.png), linear-gradient(0deg, lighten($peach, 10), $peach);
+    // background-image: u;
+    background-repeat:repeat;
+    font-family: 'Space Mono', monospace;
+
+    .title-container {
+        // background-color: aqua;
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 2%;
+
+        display: inline-flex;
+
+        .main-logo {
+            width: 20%;
+            img {
+                max-width: 140px;
+            }
+        }
+
+        .inner-text {
+            width: 80%;
+            text-align: left;
+            line-height: 3.5rem;
+            padding-left: 2%;
+        }
+    }
+}
+
+.main-content {
+    color: $blue;
+    font-family: 'Work Sans', sans-serif;
+    max-width: 100%;
+    // background-color: antiquewhite;
+    padding: 2rem 4rem;
+
+    .row {
+        margin-top: 1rem;
+        // background-color: aqua;
+
+    }
 }
 .btn {
-    background-color: #F9BB94;
+    background-color: $peach;
+    transition: box-shadow 0.5s;
     /* Green */
+    border-radius: 0;
     border: none;
-    color: red;
+    color: $blue;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;}
-.page-header {
-    background: #191c20;
-    background-image: linear-gradient(120deg, #191c20 , $header-bg-color);
+    font-size: 16px;
+    box-shadow: 5px 5px 0px $blue;
+    font-family: 'Space Mono', monospace;
+}
+
+.btn:hover {
+   transition: box-shadow 0.5s, background-color 0.5s;
+   background-color: $blue;
+   box-shadow: 0px 0px 0px $blue;
 }
 /* Set additional styling options for the columns */
 .column {
-float: left;
+    float: left;
+
+    p {
+        padding-left: 0;
+    }
 }
 
 /* Set width length for the left, right and middle columns */
 .left {
-width: 33%;
+    margin-right: 5%;
+    width: 35%;
+
+    .initial-quote {
+        color: $blue;
+        font-style: italic;
+    }
 }
 
 .middle {
-width: 33%;
+    margin-right: 10%;
+    width: 35%;
 }
 
 .right {
-width: 33%;
+    width: 15%;
+    p {
+        font-family: 'Space Mono', monospace;
+        font-size: 12px;
+    }
 }
 
 .row:after {
