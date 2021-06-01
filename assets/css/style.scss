@@ -10,7 +10,7 @@ $peach: #F9BB94;
 .page-header {
     background: $peach;
     color: $blue;
-    background: url(images/OASummer_logoblue.png), linear-gradient(0deg, lighten($peach, 10), $peach);
+    background: linear-gradient(0deg, lighten($peach, 10), $peach);
     // background-image: u;
     background-repeat:repeat;
     font-family: 'Space Mono', monospace;
