@@ -1,3 +1,5 @@
 _site
 .bundle
 vendor
+Gemfile.lock
+.sass_cache
