@@ -2,9 +2,14 @@
 ---
 
 @import "{{ 'jekyll-theme-cayman' }}";
-.btn {background-color: #4CAF50; /* Green */
+body {
+    color: #240F56;
+}
+.btn {
+    background-color: #F9BB94;
+    /* Green */
     border: none;
-    color: white;
+    color: red;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;

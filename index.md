@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <section>
 
 <div class="row">
