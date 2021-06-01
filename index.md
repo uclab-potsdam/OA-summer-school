@@ -59,6 +59,15 @@ insert image here
     <th colspan="2">Monday, 6th September 2021</th> 
   </tr>
   <tr>
+    <td>09:00 - 09:30</td>
+    <td>Registration</td>
+  </tr>
+  <tr>
+    <td>09:30 - 10:00</td>
+    <td>Welcome, introduction; presentation of formats: 
+lecture, hands-on session (workshop/tutorial) and project work (Marian Dörk)</td>
+  </tr>
+ <tr>
     <td>10:00 - 11:00</td>
     <td>Open Access: Theory and basics (Open-Access-Büro Berlin)</td>
   </tr>
@@ -72,13 +81,20 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
     <td>OA as a research topic for Library and Information Science (Maxi Kindling, Ben Kaden)</td>
   </tr>
 <tr>
+    <td>12:30 - 14:00</td>
+    <td>Lunch</td>
+  </tr>
+<tr>
     <td>14:00 - 15:00</td>
     <td>Introduction to the data set - Bundesländer-Atlas (Open-Access-Büro Berlin)</td>
   </tr>
+  <tr>
+    <td>15:00 - 16:30</td>
+    <td>Team Building / Sketching Exercise </td>
+  </tr>
 <tr>
     <td>16:30 - 18:00</td>
-    <td>Evening Keynote: ?Johanna Drucker, Interpretation of/with Data Visualization?
-</td>
+    <td>Evening Keynote</td>
   </tr>
 </table>
 
@@ -91,6 +107,10 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
   <tr>
     <th colspan="2">Tuesday, 7th September 2021</th>  
   </tr>
+    <tr>
+    <td>09:00 - 09:30</td>
+    <td>LWrap-Up and Preview of the Day</td>
+  </tr>
   <tr>
     <td>09:30 - 10:30</td>
     <td>Lecture: How to run a data viz project - methods, tools, guidelines 
@@ -100,6 +120,18 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
     <td>10:30 - 12:00</td>
     <td>Workshop: Reflecting on Data Viz Case Studies (HCC/FU Berlin) (online)</td>
   </tr>
+  <tr>
+    <td>12:00 - 13:30</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30 - 16:00</td>
+    <td>Project Work</td>
+  </tr>
+  <tr>
+    <td>16:00 - 17:30</td>
+    <td>First Mentoring Meeting</td>
+    </tr>
 </table>
 </div>
 
@@ -111,13 +143,25 @@ Open Access in Brandenburg (Vernetzungs- und Kompetenzstelle zu Open Access in B
     <th colspan="2">Wednesday, 8th September 2021</th> 
   </tr>
   <tr>
+    <td>09:0 - 09:30</td>
+    <td>Wrap-Up and Preview of the Day</td>
+  </tr>
+  <tr>
     <td>09:30 - 12:00</td>
     <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+  </tr>
+  <tr>
+    <td>12:00 - 13:30</td>
+    <td>Lunch</td>
   </tr>
   <tr>
     <td>13:30 - 15:30</td>
     <td>Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
 applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)</td>
+  </tr>
+  <tr>
+    <td>15:30 - 17:30</td>
+    <td>VProject Work</td>
   </tr>
         </table>
 </div>
@@ -130,6 +174,10 @@ applied part with exercises or a more explicit project direction (Rawgraphs + de
     <th colspan="2">Thursday, 9th September 2021</th> 
   </tr>
   <tr>
+    <td>09:00 - 09:30</td>
+    <td>Wrap-Up and Preview of the Day</td>
+  </tr>
+  <tr>
     <td>09:30 - 10:15</td>
     <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
   </tr>
@@ -139,8 +187,16 @@ applied part with exercises or a more explicit project direction (Rawgraphs + de
 Hands-on Session: Vis with Python/Jupyter</td>
   </tr>
   <tr>
+    <td>12:00 - 13:30</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
     <td>13:30 - 15:00</td>
     <td>Workshop: Visualization Coding II (Arran Ridley)</td>
+  </tr>
+  <tr>
+    <td>15:00 - 17:30</td>
+    <td>Project Work</td>
   </tr>
 </table>
  </div>
@@ -153,12 +209,24 @@ Hands-on Session: Vis with Python/Jupyter</td>
     <th colspan="2">Friday, 10th September 2021</th> 
   </tr>
   <tr>
-    <td>All day</td>
-    <td>Project work and interim presentations</td>
+    <td>09:00 - 09:30</td>
+    <td>Wrap-Up and Preview of the Day</td>
+  </tr>
+  <tr>
+    <td>09:30 - 12:00</td>
+    <td>Project Work</td>
+  </tr>
+  <tr>
+    <td>12:00 - 13:30</td>
+    <td>Lunch</td>
+  </tr>
+   <tr>
+    <td>13:30 - 16:00</td>
+    <td>Interim Presentations</td>
   </tr>
     <tr>
     <td>16:00 - 17:30</td>
-    <td>Evening Keynote TBC</td>
+    <td>Evening Keynote</td>
   </tr>
 </table>
 </div>
@@ -170,9 +238,21 @@ Hands-on Session: Vis with Python/Jupyter</td>
   <tr>
     <th colspan="2">Monday, 13th September 2021</th> 
   </tr>
+   <tr>
+    <td>09:00 - 09:30</td>
+    <td>Wrap-Up and Preview of the Day</td>
+  </tr>
   <tr>
     <td>09:30 - 12:00</td>   
-     <td>Open Access data analysis with R (Dorothea Strecker)</td>
+     <td>Analyzing open data sources for Open Access using R (Dorothea Strecker)</td>
+  </tr>
+   <tr>
+    <td>12:00 - 13:30</td>   
+     <td>Lunch</td>
+  </tr>
+   <tr>
+    <td>13:30 - 17:00</td>   
+     <td>Project Work</td>
   </tr>
 </table>
  </div>
@@ -184,9 +264,29 @@ Hands-on Session: Vis with Python/Jupyter</td>
   <tr>
     <th colspan="2">Tuesday, 14th September 2021</th> 
   </tr>
+   <tr>
+    <td>09:00 - 09:30</td>   
+     <td>Wrap-Up and Preview of the Day</td>
+  </tr>
   <tr>
     <td>09:30 - 10:15</td>
     <td>Lecture: Visualisation as an epistemic tool (Linda Freyberg)</td>
+  </tr>
+  <tr>
+    <td>10:15 - 12:00</td>
+    <td>Project work / or Reading Group</td>
+  </tr>
+  <tr>
+    <td>12:00 - 13:30</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30 - 16:00</td>
+    <td>Project Work</td>
+  </tr>
+  <tr>
+    <td>16:00 - 17:30</td>
+    <td>Second Mentoring Meeting</td>
   </tr>
 </table>
 </div>
@@ -199,16 +299,25 @@ Hands-on Session: Vis with Python/Jupyter</td>
     <th colspan="2">Wednesday, 15th September 2021</th> 
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>09:00 - 09:30</td>
+    <td>Wrap-Up and Preview of the Day
+</td>
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>09:30 - 12:00</td>
+    <td>Lecture TBC</td>
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>12:00 - 13:30</td>
+    <td>Lunch</td>
+  </tr>
+    <tr>
+    <td>13:30 - 15:30</td>
+    <td>Project Work</td>
+  </tr>
+    <tr>
+    <td>15:30 - 17:00</td>
+    <td>Project screening and collective critique</td>
   </tr>
 </table>
 </div>
@@ -221,16 +330,20 @@ Hands-on Session: Vis with Python/Jupyter</td>
     <th colspan="2">Thursday, 16th September 2021</th> 
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>09:00 - 09:30</td>
+    <td>Wrap-Up and Preview of the Day</td>
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>09:30 - 12:00</td>
+    <td>Project Work</td>
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>12:00 - 13:30</td>
+    <td>Lunch</td>
+  </tr>
+   <tr>
+    <td>13:30 - 17:00</td>
+    <td>Project Work</td>
   </tr>
 </table>
  </div>
@@ -243,16 +356,32 @@ Hands-on Session: Vis with Python/Jupyter</td>
     <th colspan="2">Friday, 17th September 2021</th> 
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>09:00 - 09:30</td>
+    <td>Wrap-Up and Preview of the Day</td>
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>09:30 - 10:30</td>
+    <td>Project Work</td>
   </tr>
   <tr>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td>10:30 - 12:00</td>
+    <td>Student Project Presentations I</td>
+  </tr>
+   <tr>
+    <td>12:00 - 13:30</td>
+    <td>Lunc</td>
+  </tr>
+   <tr>
+    <td>13:30 - 15:00</td>
+    <td>Student Project Presentations II</td>
+  </tr>
+   <tr>
+    <td>15:00 - 16:30</td>
+    <td>Mentoring Debrief and Advice</td>
+  </tr>
+   <tr>
+    <td>16:30 - 17:30</td>
+    <td>Wrap-Up and Feedback</td>
   </tr>
 </table>
 </div>
@@ -276,10 +405,12 @@ insert image
 
 <br>
 
-<p>Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation! 
-The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.  
-The deadline for your submission is 15. July 2021. To apply, please send in your application to the following address: oabb@open-access-berlin.de. 
-Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file. </p>
+<p>Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation!<br>
+The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.<br>  
+The deadline for your submission is 15. July 2021. To apply, please send in your application to the following address: <a href="mailto:woabb@open-access-berlin.de">Jon Doe</a>. 
+Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file.<br>
+<b>Please mention in your application if you would be comfortable with attending events of the summer school in person if the legal and pandemic situation allows for it. This will help us organisers to assess the preferences of the participants. The stated preference will not impact the selection of participants.</b>
+ </p>
 
 
 
