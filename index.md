@@ -39,8 +39,170 @@ layout: default
     <img src="images/schedule_icon.png"/>
     <h1>Schedule</h1>
     <p>Preliminary workshops and keynotes, full schedule to be released upon registration.</p>
-    <div class="schedules-container">
-          <div class="day-one single-table">
+    <div class="week-one">
+      <h2>Week One</h2>
+      <div class="schedules-container">
+        <div class="day-one single-table">
+          <table>
+            <tr>
+              <th colspan="2">Monday, 6th September 2021</th> 
+            </tr>
+            <tr>
+              <td>09:00</td>
+              <td>Registration</td>
+            </tr>
+            <tr>
+              <td>09:30</td>
+              <td>Welcome, introduction; presentation of formats: lecture, hands-on session (workshop/tutorial) and project work (Marian Dörk)</td>
+            </tr>
+            <tr>
+              <td>12:00</td>
+              <td>Lunch</td>
+            </tr>
+            <tr>
+              <td>13:30</td>
+              <td>
+                Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
+                applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+              </td>
+            </tr>
+            <tr>
+              <td>15:30</td>
+              <td>VProject Work</td>
+            </tr>
+          </table>
+        </div>
+        <div class="day-two single-table">
+          <table>
+            <tr>
+              <th colspan="2">Tuesday, 7th September 2021</th> 
+            </tr>
+            <tr>
+              <td>09:00</td>
+              <td>Wrap-Up and Preview of the Day</td>
+            </tr>
+            <tr>
+              <td>09:30</td>
+              <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+            </tr>
+            <tr>
+              <td>12:00</td>
+              <td>Lunch</td>
+            </tr>
+            <tr>
+              <td>13:30</td>
+              <td>
+                Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
+                applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+              </td>
+            </tr>
+            <tr>
+              <td>15:30</td>
+              <td>VProject Work</td>
+            </tr>
+          </table>
+        </div>
+        <div class="day-three single-table">
+          <table>
+            <tr>
+              <th colspan="2">Wednesday, 8th September 2021</th> 
+            </tr>
+            <tr>
+              <td>09:00</td>
+              <td>Wrap-Up and Preview of the Day</td>
+            </tr>
+            <tr>
+              <td>09:30</td>
+              <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+            </tr>
+            <tr>
+              <td>12:00</td>
+              <td>Lunch</td>
+            </tr>
+            <tr>
+              <td>13:30</td>
+              <td>
+                Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
+                applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+              </td>
+            </tr>
+            <tr>
+              <td>15:30</td>
+              <td>VProject Work</td>
+            </tr>
+          </table>
+        </div>
+        <div class="day-four single-table">
+          <table>
+          <tr>
+            <th colspan="2">Thursday, 9th September 2021</th> 
+          </tr>
+          <tr>
+            <td>09:00</td>
+            <td>Wrap-Up and Preview of the Day</td>
+          </tr>
+          <tr>
+            <td>09:30</td>
+            <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
+          </tr>
+          <tr>
+            <td>10:15</td>
+              <td>
+              Workshop: Visualization Coding (Arran Ridley, Francesca Morini) Hands-on Session: Vis with Python/Jupyter
+              </td>
+          </tr>
+          <tr>
+            <td>12:00</td>
+            <td>Lunch</td>
+          </tr>
+          <tr>
+            <td>13:30</td>
+            <td>Workshop: Visualization Coding II (Arran Ridley)</td>
+          </tr>
+          <tr>
+            <td>15:00</td>
+            <td>Project Work</td>
+          </tr>
+        </table>
+        </div>
+        <div class="day-five single-table">
+          <table>
+          <tr>
+            <th colspan="2">Friday, 10th September 2021</th> 
+          </tr>
+          <tr>
+            <td>09:00</td>
+            <td>Wrap-Up and Preview of the Day</td>
+          </tr>
+          <tr>
+            <td>09:30</td>
+            <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
+          </tr>
+          <tr>
+            <td>10:15</td>
+              <td>
+              Workshop: Visualization Coding (Arran Ridley, Francesca Morini) Hands-on Session: Vis with Python/Jupyter
+              </td>
+          </tr>
+          <tr>
+            <td>12:00</td>
+            <td>Lunch</td>
+          </tr>
+          <tr>
+            <td>13:30</td>
+            <td>Workshop: Visualization Coding II (Arran Ridley)</td>
+          </tr>
+          <tr>
+            <td>15:00</td>
+            <td>Project Work</td>
+          </tr>
+        </table>
+        </div>
+      </div>
+      <div class="week-two">
+      <h2>Week Two</h2>
+      <div class="schedules-container">
+      <div class="day-one single-table">
         <table>
           <tr>
             <th colspan="2">Monday, 6th September 2021</th> 
@@ -196,8 +358,10 @@ layout: default
         </tr>
       </table>
       </div>
+      </div>
     </div>
-  </div>
+    </div>
+    </div>
 </section>
 <section class="description-outer">
   <div class="description-container">
@@ -249,6 +413,11 @@ layout: default
         <div class="about">
           <h5>Team</h5>
           <ul>
+            <li>Name, Surname</li>
+            <li>Name, Surname</li>
+            <li>Name, Surname</li>
+            <li>Name, Surname</li>
+            <li>Name, Surname</li>
             <li>Name, Surname</li>
             <li>Name, Surname</li>
             <li>Name, Surname</li>

@@ -96,34 +96,51 @@ $titles: 'Space Mono', monospace;
                 margin: 0;
             }
 
-            .schedules-container {
-                display: inline-flex;
-                flex-wrap: wrap;
-                width: 100%;
-
-                table {
-                    width: 550px;
-                    margin-top: 10px;
-                    margin-right: 40px;
-                    padding: 10px 0px;
-                    font-size: 14px;
-                    font-family: $titles;
-
-                    th, tr td {
-                        border: none;
-                        border-left: 0px solid;
-                        border-right: 0px solid;
-                    }
-                    th {
-                        border-top: 0px solid;
-                        border-bottom: 2px solid $blue;
-                    }
-                    tbody {
-                        tr {
-                            border-bottom: 1px dashed $blue;
-                        }
-                    } 
+            .week-one, .week-two {
+                h2 {
+                    display: inline-block;
+                    border: 1px solid $blue;
+                    padding: 0.2rem 0.5rem;
                 }
+
+                .schedules-container {
+                    display: inline-flex;
+                    flex-wrap: wrap;
+                    width: 100%;
+
+                    table {
+                        width: 550px;
+                        margin-top: 10px;
+                        margin-right: 40px;
+                        padding: 10px 0px;
+                        font-size: 14px;
+                        font-family: $titles;
+
+                        th,
+                        tr td {
+                            border: none;
+                            border-left: 0px solid;
+                            border-right: 0px solid;
+                        }
+
+                        th {
+                            text-align: left;
+                            border-top: 0px solid;
+                            border-bottom: 2px solid $blue;
+                        }
+
+                        tbody {
+                            tr {
+                                border-bottom: 1px dashed $blue;
+                            }
+                        }
+                    }
+                }
+
+            }
+
+            .week-two {
+                margin-top: 6rem;
             }
         }
     }
@@ -234,7 +251,7 @@ $titles: 'Space Mono', monospace;
     /* Green */
     border-radius: 0;
     border: none;
-    color: $blue;
+    color: $blue !important;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
