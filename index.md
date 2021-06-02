@@ -47,11 +47,11 @@ layout: default
           </tr>
           <tr>
             <td>09:00</td>
-            <td>Wrap-Up and Preview of the Day</td>
+            <td>Registration</td>
           </tr>
           <tr>
             <td>09:30</td>
-            <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+            <td>Welcome, introduction; presentation of formats: lecture, hands-on session (workshop/tutorial) and project work (Marian Dörk)</td>
           </tr>
           <tr>
             <td>12:00</td>
@@ -200,27 +200,40 @@ layout: default
   </div>
 </section>
 <section class="description-outer">
-<div class="description-container">
-<img src="images/key_icon.png"/>
-<h1>Application</h1>
-<br>
-
-<span style="background-color: #FFFF00">Deadline for applications on 20.08!</span>
-
-<br>
-
-<p>Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation!<br>
-The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.<br>  
-The deadline for your submission is 15. July 2021. To apply, please send in your application to the following address: <a href="mailto:woabb@open-access-berlin.de">Jon Doe</a>. 
-Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file.<br>
-<b>Please mention in your application if you would be comfortable with attending events of the summer school in person if the legal and pandemic situation allows for it. This will help us organisers to assess the preferences of the participants. The stated preference will not impact the selection of participants.</b>
- </p>
-</div>
-
+  <div class="description-container">
+    <img src="images/key_icon.png"/>
+    <h1>Application</h1>
+    <div class="disclaimer deadline">
+      <p>
+        Deadline for applications on 15.07.2021
+      </p>
+    </div>
+    <div class="main-text">
+      <p class="description-column">
+        Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation!
+        The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.
+      </p>
+      <p class="description-column">  
+        <span>
+          The deadline for your submission is 15. July 2021.
+        </span> 
+        To apply, please send in your application to the following address: 
+        <a href="mailto:woabb@open-access-berlin.de">
+          Jon Doe</a>. 
+        Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file.<br><br>
+        <b>
+          Please mention in your application if you would be comfortable with attending events of the summer school in person if the legal and pandemic situation allows for it. This will help us organisers to assess the preferences of the participants. The stated preference will not impact the selection of participants.
+        </b>
+      </p>
+    </div>
+    <div class="application-container">
+      <a href="mailto:woabb@open-access-berlin.de" class="btn">
+        Apply now
+      </a>
+      <p>Go to Income space &#10132;</p>
+    </div>
+  </div>
 </section>
-
-<br>
-
 <section class="about-outer-container">
 <div class="about-inner">
 <img src="images/eyes_icon.png"/>

@@ -11,11 +11,11 @@ $titles: 'Space Mono', monospace;
 .page-header {
     background: $peach;
     color: $blue;
-    background-image: url("images/key.png");
+    background-image: url("/images/key.png");
     background-size: 25px;
     background-blend-mode: soft-light;
     /* fallback */
-    background-image: url("images/key.png"),
+    background-image: url("/images/key.png"),
     linear-gradient(0deg, lighten($peach, 100), $peach);
     /* W3C */
     background-repeat:repeat;
@@ -61,6 +61,10 @@ $titles: 'Space Mono', monospace;
     // background-color: antiquewhite;
     padding: 2rem 4rem;
 
+    a {
+        color: darken($peach, 20);
+    }
+
     .row {
         margin-top: 1rem;
         // background-color: aqua;
@@ -88,26 +92,27 @@ $titles: 'Space Mono', monospace;
                 width: 100%;
 
                 table {
-                    width: 370px;
+                    width: 550px;
                     margin-top: 10px;
                     margin-right: 40px;
                     padding: 10px 0px;
                     font-size: 14px;
                     font-family: $titles;
 
-                    th {
-                       border-top: 0px solid;
-                       border-bottom: 2px solid $blue;
-                    }
-
                     th, tr td {
+                        border: none;
                         border-left: 0px solid;
                         border-right: 0px solid;
                     }
-
-                     tr td {
-                         border-bottom: 1px dashed $blue;
-                     }
+                    th {
+                        border-top: 0px solid;
+                        border-bottom: 2px solid $blue;
+                    }
+                    tbody {
+                        tr {
+                            border-bottom: 1px dashed $blue;
+                        }
+                    } 
                 }
             }
         }
@@ -116,6 +121,7 @@ $titles: 'Space Mono', monospace;
     section.description-outer {
         margin-top: 10rem;
         .description-container {
+            width: 100%;
             img {
                 width: 50px;
             }
@@ -126,6 +132,31 @@ $titles: 'Space Mono', monospace;
                 font-weight: 700;
                 color: $blue;
                 margin: 0;
+            }
+
+            .disclaimer {
+                display: inline-block;
+                p {
+                    padding: 0.5rem;
+                    background-color: $peach;
+                }
+            }
+
+            .main-text {
+                display: inline-flex;
+
+                .description-column {
+                    width: 50%;
+                    margin-top: 0;
+                }
+            }
+
+            .application-container {
+                display: inline-flex;
+                p {
+                    margin: 0;
+                    margin-left: 2rem;
+                }
             }
         }
     }
