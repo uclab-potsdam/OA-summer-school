@@ -462,7 +462,7 @@ layout: default
       <a href="mailto:woabb@open-access-berlin.de?subject=OA Summer School Application" class="btn">
         Apply now
       </a>
-      <p><a href="https://fhp.incom.org/workspace/9324">Go to Income space &#10132;</a></>
+      <p><a href="https://fhp.incom.org/workspace/9324">Go to Income space &#10132;</a></p>
     </div>
   </div>
 </section>
