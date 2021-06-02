@@ -462,26 +462,7 @@ layout: default
       <a href="mailto:woabb@open-access-berlin.de?subject=OA Summer School Application" class="btn">
         Apply now
       </a>
-      <p><a href="https://fhp.incom.org/workspace/9324">Go to Income space &#10132;</a></p>
-      <br>
-      <p class="additional-text">
-          Incom: 	https://fhp.incom.org/workspace/9324 <br>
-Kontakt: 	X <br>
-Termin :	6-17 September 2021, Mondays-Fridays at 9am–6pm <br>
-Room	:	TBD <br>
-Credits	:	5 ECTS <br>
-Module : <br>
-		FHP<br>
-        <ul>
-          <li>	- BA Design Hauptstudium: Projektwochen or Flex-Module </li>
-          <li>  - MA Design: Tutoring / Mentoring </li>
-          <li>  - MA Urbane Zukunft: 4.1 Fachliche Vertiefung / 4.2 Wahlfach </li>
-         </ul> <br> 
-		HU Berlin<br>
-        <ul>
-          <li> MA Information Science </li>
-      </ul>
-        </p>
+      <p><a href="https://fhp.incom.org/workspace/9324">Go to Income space &#10132;</a></>
     </div>
   </div>
 </section>
