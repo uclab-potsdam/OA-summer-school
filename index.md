@@ -211,9 +211,10 @@ layout: default
     <div class="main-text">
       <p class="description-column">
         Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation!
-        The 25 participants of the Summer School will be preferably equally chosen from the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.
+        The 25 participants of the Summer School will be preferably equally chosen fr om the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.
       </p>
-      <p class="description-column">  
+      <div class="description-column">
+      <p class="application-instructions">  
         <span>
           The deadline for your submission is 15. July 2021.
         </span> 
@@ -221,10 +222,11 @@ layout: default
         <a href="mailto:woabb@open-access-berlin.de">
           Jon Doe</a>. 
         Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file.<br><br>
-        <b>
+        </p>
+        <p class="additional-text">
           Please mention in your application if you would be comfortable with attending events of the summer school in person if the legal and pandemic situation allows for it. This will help us organisers to assess the preferences of the participants. The stated preference will not impact the selection of participants.
-        </b>
-      </p>
+        </p>
+      </div>
     </div>
     <div class="application-container">
       <a href="mailto:woabb@open-access-berlin.de" class="btn">
@@ -235,33 +237,34 @@ layout: default
   </div>
 </section>
 <section class="about-outer-container">
-<div class="about-inner">
-<img src="images/eyes_icon.png"/>
-<h1>About</h1>
-<p2>The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.</p2>
-<div class="row">
-    <div class="about">
-        <p>  Name, Surname <br> Role <br>
-            <br>
-
-        Name, Surname <br> Role <br>
-            <br>
-
-    Name, Surname <br> Role <br>
-            <br>
-
-    </p>
+  <div class="about-inner">
+    <img src="images/eyes_icon.png"/>
+    <h1>About</h1>
+      <div class="main-text">
+          <p class="about-text">
+            The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.
+          </p>
+      </div>
+      <div class="row">
+        <div class="about">
+          <h5>Team</h5>
+          <ul>
+            <li>Name, Surname</li>
+            <li>Name, Surname</li>
+            <li>Name, Surname</li>
+            <li>Name, Surname</li>
+          </ul>
+        </div>
+        <div class="socials-affiliations">
+          <div class="socials">
+            <h5>Stay Updated</h5>
+            <a>Twitter</a>
+          </div>
+          <div class="affiliations">
+            <h5>Affiliations</h5>
+            <div>Logos</div>
+          </div>
+        </div>
     </div>
-    <div class="about">
-        <p> Stay updated <br> Twitter <br>
-
-  Affiliations
-
-
-
-    
-    <br>
-    </p>
- </div>
-</div>
+  </div>
 </section>

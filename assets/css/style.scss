@@ -65,9 +65,19 @@ $titles: 'Space Mono', monospace;
         color: darken($peach, 20);
     }
 
+    p {
+        padding-left: 0;
+    }
+
     .row {
         margin-top: 1rem;
         // background-color: aqua;
+    }
+
+    h1, h2, h3, h4, h5 {
+        color: $blue;
+        font-family: $titles;
+        font-weight: 700;
     }
 
     section.outer-schedule {
@@ -148,10 +158,22 @@ $titles: 'Space Mono', monospace;
                 .description-column {
                     width: 50%;
                     margin-top: 0;
+
+                    .application-instructions {
+                        margin-bottom: 0;
+                    }
+
+                    .additional-text {
+                        margin: 0;
+                        margin-left: 1rem; 
+                        padding: 1rem;
+                        border: 1px solid $peach;
+                    }
                 }
             }
 
             .application-container {
+                margin-top: 2rem;
                 display: inline-flex;
                 p {
                     margin: 0;
@@ -175,6 +197,33 @@ $titles: 'Space Mono', monospace;
                 font-weight: 700;
                 color: $blue;
                 margin: 0;
+            }
+
+            .main-text {
+                width: 100%;
+                .about-text {
+                    width: 50%;
+                }
+            }
+
+            .row {
+                width: 100%;
+                display: inline-flex;
+
+                .about {
+                    width: 50%;
+                    ul {
+                        list-style-type: none;
+                        padding: 0;
+                        margin: 0;
+                    }
+                }
+
+                .socials-affiliations {
+                    .affiliations {
+                        margin-top: 2rem;
+                    }
+                }
             }
         }
     }
