@@ -53,22 +53,47 @@ layout: default
             </tr>
             <tr>
               <td>09:30</td>
-              <td>Welcome, introduction; presentation of formats: lecture, hands-on session (workshop/tutorial) and project work (Marian Dörk)</td>
+              <td>Welcome, introduction</td>
             </tr>
             <tr>
-              <td>12:00</td>
+              <td>10:00</td>
+              <td>Open Access: Theory and basics</td>
+            </tr>
+            <tr>
+              <td>11:00</td>
+              <td>Open Access and Open Research in Berlin</td>
+            </tr>
+            <tr>
+              <td>11:45</td>
+              <td>OA as research topic for Library and Information Science</td>
+            </tr>
+            <tr>
+              <td>12:30</td>
               <td>Lunch</td>
             </tr>
             <tr>
-              <td>13:30</td>
+              <td>14:00</td>
               <td>
-                Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
-                applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+                Introduction to the data set - Bundesländer-Atlas 
               </td>
             </tr>
             <tr>
-              <td>15:30</td>
-              <td>VProject Work</td>
+              <td>15:00</td>
+              <td>
+                Team Building / Sketching Exercise 
+              </td>
+            </tr>
+            <tr>
+              <td>16:30</td>
+              <td>
+                Evening Keynote
+              </td>
+            </tr>
+            <tr>
+              <td>18:00</td>
+              <td>
+                Day Wrap-up
+              </td>
             </tr>
           </table>
         </div>
@@ -83,7 +108,11 @@ layout: default
             </tr>
             <tr>
               <td>09:30</td>
-              <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+              <td>Lecture: How to run a dataviz project</td>
+            </tr>
+            <tr>
+              <td>10:30</td>
+              <td>Workshop: Reflecting on Data Viz Case Studies</td>
             </tr>
             <tr>
               <td>12:00</td>
@@ -92,13 +121,18 @@ layout: default
             <tr>
               <td>13:30</td>
               <td>
-                Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
-                applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+                Project Work
               </td>
             </tr>
             <tr>
-              <td>15:30</td>
-              <td>VProject Work</td>
+              <td>16:00</td>
+              <td>First Mentoring Meeting</td>
+            </tr>
+            <tr>
+              <td>17:30</td>
+              <td>
+                Day Wrap-up
+              </td>
             </tr>
           </table>
         </div>
@@ -113,7 +147,7 @@ layout: default
             </tr>
             <tr>
               <td>09:30</td>
-              <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+              <td>Designerly Visualization Research and Methods</td>
             </tr>
             <tr>
               <td>12:00</td>
@@ -122,13 +156,18 @@ layout: default
             <tr>
               <td>13:30</td>
               <td>
-                Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
-                applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+                Tutorial Visualization Tools
               </td>
             </tr>
             <tr>
               <td>15:30</td>
-              <td>VProject Work</td>
+              <td>Project Work</td>
+            </tr>
+            <tr>
+              <td>17:30</td>
+              <td>
+                Day Wrap-up
+              </td>
             </tr>
           </table>
         </div>
@@ -143,12 +182,12 @@ layout: default
           </tr>
           <tr>
             <td>09:30</td>
-            <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
+            <td>Lecture: Visualization of open cultural heritage data</td>
           </tr>
           <tr>
             <td>10:15</td>
               <td>
-              Workshop: Visualization Coding (Arran Ridley, Francesca Morini) Hands-on Session: Vis with Python/Jupyter
+                Workshop: Visualization Coding
               </td>
           </tr>
           <tr>
@@ -157,12 +196,18 @@ layout: default
           </tr>
           <tr>
             <td>13:30</td>
-            <td>Workshop: Visualization Coding II (Arran Ridley)</td>
+            <td>Workshop: Visualization Coding II</td>
           </tr>
           <tr>
             <td>15:00</td>
             <td>Project Work</td>
           </tr>
+          <tr>
+              <td>17:30</td>
+              <td>
+                Day Wrap-up
+              </td>
+           </tr>
         </table>
         </div>
         <div class="day-five single-table">
@@ -176,13 +221,7 @@ layout: default
           </tr>
           <tr>
             <td>09:30</td>
-            <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
-          </tr>
-          <tr>
-            <td>10:15</td>
-              <td>
-              Workshop: Visualization Coding (Arran Ridley, Francesca Morini) Hands-on Session: Vis with Python/Jupyter
-              </td>
+            <td>Project Work</td>
           </tr>
           <tr>
             <td>12:00</td>
@@ -190,12 +229,22 @@ layout: default
           </tr>
           <tr>
             <td>13:30</td>
-            <td>Workshop: Visualization Coding II (Arran Ridley)</td>
+            <td>Interim Presentations</td>
           </tr>
           <tr>
-            <td>15:00</td>
-            <td>Project Work</td>
+            <td>16:00</td>
+            <td>Evening Keynote</td>
           </tr>
+          <tr>
+            <td>17:30</td>
+            <td>Day Wrap-up</td>
+          </tr>
+          <tr>
+              <td>17:30</td>
+              <td>
+                Day Wrap-up
+              </td>
+            </tr>
         </table>
         </div>
       </div>
@@ -205,37 +254,7 @@ layout: default
       <div class="day-one single-table">
         <table>
           <tr>
-            <th colspan="2">Monday, 6th September 2021</th> 
-          </tr>
-          <tr>
-            <td>09:00</td>
-            <td>Registration</td>
-          </tr>
-          <tr>
-            <td>09:30</td>
-            <td>Welcome, introduction; presentation of formats: lecture, hands-on session (workshop/tutorial) and project work (Marian Dörk)</td>
-          </tr>
-          <tr>
-            <td>12:00</td>
-            <td>Lunch</td>
-          </tr>
-          <tr>
-            <td>13:30</td>
-            <td>
-              Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
-              applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
-            </td>
-          </tr>
-          <tr>
-            <td>15:30</td>
-            <td>VProject Work</td>
-          </tr>
-        </table>
-      </div>
-      <div class="day-two single-table">
-        <table>
-          <tr>
-            <th colspan="2">Tuesday, 7th September 2021</th> 
+            <th colspan="2">Monday, 13th September 2021</th> 
           </tr>
           <tr>
             <td>09:00</td>
@@ -243,7 +262,7 @@ layout: default
           </tr>
           <tr>
             <td>09:30</td>
-            <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+            <td>Analyzing open data sources with R</td>
           </tr>
           <tr>
             <td>12:00</td>
@@ -252,8 +271,54 @@ layout: default
           <tr>
             <td>13:30</td>
             <td>
-              Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
-              applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+              Project Work
+            </td>
+          </tr>
+          <tr>
+            <td>17:00</td>
+            <td>
+              Day Wrap-up
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="day-two single-table">
+        <table>
+          <tr>
+            <th colspan="2">Tuesday, 14th September 2021 <span>Theory day!</span></th> 
+          </tr>
+          <tr>
+            <td>09:00</td>
+            <td>Wrap-Up and Preview of the Day</td>
+          </tr>
+          <tr>
+            <td>09:30</td>
+            <td>Lecture: Visualisation as an epistemic tool</td>
+          </tr>
+          <tr>
+            <td>10:15</td>
+            <td>Project Work / Reading Group</td>
+          </tr>
+          <tr>
+            <td>12:00</td>
+            <td>Lunch</td>
+          </tr>
+          <tr>
+            <td>13:30</td>
+            <td>
+              Project Work 
+            </td>
+          </tr>
+          <tr>
+            <td>16:00</td>
+            <td>
+              Second mentoring meeting 
+            </td>
+          </tr>
+          <tr>
+            <td>17:30</td>
+            <td>
+              Day Wrap-up
             </td>
           </tr>
           <tr>
@@ -265,7 +330,7 @@ layout: default
       <div class="day-three single-table">
         <table>
           <tr>
-            <th colspan="2">Wednesday, 8th September 2021</th> 
+            <th colspan="2">Wednesday, 15th September 2021</th> 
           </tr>
           <tr>
             <td>09:00</td>
@@ -273,7 +338,7 @@ layout: default
           </tr>
           <tr>
             <td>09:30</td>
-            <td>Visual Variables/ Cognition; Designerly Visualization Research; Co-design Methods (Marian Dörk)</td>
+            <td>Lecture: Data Feminism/ critical/ ethical vis</td>
           </tr>
           <tr>
             <td>12:00</td>
@@ -282,20 +347,23 @@ layout: default
           <tr>
             <td>13:30</td>
             <td>
-              Tutorial Visualization Tools (Francesca Morini & Tobias Kauer)
-              applied part with exercises or a more explicit project direction (Rawgraphs + design app/html?)
+              Project Work
             </td>
           </tr>
           <tr>
             <td>15:30</td>
-            <td>VProject Work</td>
+            <td>Project screening and collective critique</td>
+          </tr>
+          <tr>
+            <td>17:00</td>
+            <td>Day Wrap-up</td>
           </tr>
         </table>
       </div>
       <div class="day-four single-table">
         <table>
         <tr>
-          <th colspan="2">Thursday, 9th September 2021</th> 
+          <th colspan="2">Thursday, 16th September 2021</th> 
         </tr>
         <tr>
           <td>09:00</td>
@@ -303,13 +371,7 @@ layout: default
         </tr>
         <tr>
           <td>09:30</td>
-          <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
-        </tr>
-        <tr>
-          <td>10:15</td>
-            <td>
-             Workshop: Visualization Coding (Arran Ridley, Francesca Morini) Hands-on Session: Vis with Python/Jupyter
-            </td>
+          <td>Project Work</td>
         </tr>
         <tr>
           <td>12:00</td>
@@ -317,18 +379,22 @@ layout: default
         </tr>
         <tr>
           <td>13:30</td>
-          <td>Workshop: Visualization Coding II (Arran Ridley)</td>
+          <td>Project Work</td>
         </tr>
         <tr>
           <td>15:00</td>
           <td>Project Work</td>
+        </tr>
+        <tr>
+          <td>17:00</td>
+          <td>Day Wrap-up</td>
         </tr>
       </table>
       </div>
       <div class="day-five single-table">
         <table>
         <tr>
-          <th colspan="2">Friday, 10th September 2021</th> 
+          <th colspan="2">Friday, 17th September 2021</th> 
         </tr>
         <tr>
           <td>09:00</td>
@@ -336,12 +402,12 @@ layout: default
         </tr>
         <tr>
           <td>09:30</td>
-          <td>Lecture: Visualization of open cultural heritage data (Marian Dörk)</td>
+          <td>Project Work</td>
         </tr>
         <tr>
-          <td>10:15</td>
+          <td>10:30</td>
             <td>
-             Workshop: Visualization Coding (Arran Ridley, Francesca Morini) Hands-on Session: Vis with Python/Jupyter
+             Student Project Presentations I
             </td>
         </tr>
         <tr>
@@ -350,11 +416,11 @@ layout: default
         </tr>
         <tr>
           <td>13:30</td>
-          <td>Workshop: Visualization Coding II (Arran Ridley)</td>
+          <td>Student Project Presentations II</td>
         </tr>
         <tr>
           <td>15:00</td>
-          <td>Project Work</td>
+          <td>Final Wrap-up</td>
         </tr>
       </table>
       </div>
