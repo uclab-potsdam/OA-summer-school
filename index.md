@@ -449,8 +449,8 @@ layout: default
           The deadline for your submission is 15. July 2021.
         </span> 
         To apply, please send in your application to the following address: 
-        <a href="mailto:woabb@open-access-berlin.de">
-          Jon Doe</a>. 
+        <a href="mailto:woabb@open-access-berlin.de?subject=OA Summer School Application">
+          woabb@open-access-berlin.de</a>. 
         Please use your university-email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF-file.<br><br>
         </p>
         <p class="additional-text">
@@ -459,7 +459,7 @@ layout: default
       </div>
     </div>
     <div class="application-container">
-      <a href="mailto:woabb@open-access-berlin.de" class="btn">
+      <a href="mailto:woabb@open-access-berlin.de?subject=OA Summer School Application" class="btn">
         Apply now
       </a>
       <p><a href="https://fhp.incom.org/workspace/9324">Go to Income space &#10132;</a></p>
@@ -495,7 +495,7 @@ layout: default
         <div class="socials-affiliations">
           <div class="socials">
             <h5>Stay Updated</h5>
-            <a>Twitter</a>
+            <p>#OAVis</p>
           </div>
           <div class="affiliations">
             <h5>Affiliations</h5>
