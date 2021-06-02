@@ -29,6 +29,7 @@ $titles: 'Space Mono', monospace;
         display: inline-flex;
 
         .main-logo {
+            display: inline;
             width: 20%;
             img {
                 max-width: 140px;
@@ -319,3 +320,124 @@ p {
         float: left;
         width: 50%;
         }
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    .page-header {
+        height: 85vh;
+        background: $peach;
+        color: $blue;
+        background-image: url("/images/key.png");
+        background-size: 25px;
+        background-blend-mode: soft-light;
+        background-image: url("/images/key.png"),
+            linear-gradient(0deg, lighten($peach, 100), $peach);
+        background-repeat: repeat;
+
+        .title-container {
+            display: grid;
+
+            .main-logo {
+                display: none;
+            }
+
+            .mobile-logo {
+                width: 100%;
+
+                img {
+                    max-width: 90%;
+                }
+            }
+
+            .inner-text {
+                width: 100%;
+
+                .project-name {
+                    display: none;
+                }
+
+                .project-mobile,
+                .project-tagline {
+                    margin-top: 2rem;
+                    margin-left: 2rem;
+                }
+            }
+        }
+
+    }
+    
+    .main-content {
+        h1 {
+            font-size: 40px !important;
+        }
+        section.outer-introduction {
+            .row {
+                .column {
+                    width: 100%;
+                    padding: 0;
+                }
+            }
+        }
+
+        section.outer-schedule {
+            .schedule {
+                .week-one, .week-two {
+                    .schedules-container {
+                        .single-table {
+                            width: 100%;
+
+                            table {
+                                width: 100%;
+                                margin: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        section.description-outer {
+            .description-container {
+                .main-text {
+                    display: grid;
+
+                    .description-column {
+                        width: 100%;
+
+                        .additional-text {
+                            margin: 0;
+                        }
+                    }
+                }
+                .application-container {
+                    display: grid;
+
+                    p {
+                        margin: 0;
+                        text-align: center;
+                    }
+                }
+            }
+        }
+
+        section.about-outer-container {
+            .about-inner {
+                .main-text {
+                    .about-text {
+                        width: 100%;
+                    }
+                }
+                    .row {
+                        display: grid;
+
+                        .socials-affiliations {
+                            margin-top: 2rem;
+                        }
+                    }
+            }
+        }
+    }
+}

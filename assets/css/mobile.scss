@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ 'jekyll-theme-cayman' }}";
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Work+Sans:ital@0;1&display=swap');
+$blue: #240F56;
+$peach: #F9BB94;
+$titles: 'Space Mono', monospace;
+
+
+@media only screen and (max-width: 600px) {
+
+    .page-header {
+        height: 85vh;
+        background: $peach;
+        color: $blue;
+        background-image: url("/images/key.png");
+        background-size: 25px;
+        background-blend-mode: soft-light;
+        background-image: url("/images/key.png"),
+            linear-gradient(0deg, lighten($peach, 100), $peach);
+        background-repeat: repeat;
+
+        .title-container {
+            display: grid;
+            .main-logo {
+                display: none;
+            }
+
+            .mobile-logo {
+                width: 100%;
+
+                img {
+                    max-width: 90%;
+                }
+            }
+
+            .inner-text {
+                width: 100%;
+
+                .project-name {
+                    display: none;
+                }
+
+                .project-mobile,
+                .project-tagline {
+                    margin-top: 2rem;
+                    margin-left: 2rem;
+                }
+            }
+        }
+    
+    }
+}
