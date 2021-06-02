@@ -26,7 +26,7 @@ layout: default
   </div>
   <div class="column right">
     <p>
-      <a href="{{  }}" class="btn">Apply now</a>
+      <a href="#description" class="btn">Apply now</a>
       <br>
       See full schedule &#10132;
       <br>
@@ -429,7 +429,7 @@ layout: default
     </div>
     </div>
 </section>
-<section class="description-outer">
+<section class="description-outer" id="description">
   <div class="description-container">
     <img src="images/key_icon.png"/>
     <h1>Application</h1>
@@ -462,7 +462,7 @@ layout: default
       <a href="mailto:woabb@open-access-berlin.de" class="btn">
         Apply now
       </a>
-      <p>Go to Income space &#10132;</p>
+      <p><a href="https://fhp.incom.org/workspace/9324">Go to Income space &#10132;</a></p>
     </div>
   </div>
 </section>
