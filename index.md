@@ -495,11 +495,12 @@ layout: default
         <div class="socials-affiliations">
           <div class="socials">
             <h5>Stay Updated</h5>
-            <p>#OAVis</p>
+            <p><a href="https://twitter.com/search?q=%23VisOA&src=typed_query">#OAVis &#10132;</a></p>
           </div>
           <div class="affiliations">
             <h5>Affiliations</h5>
             <div>Logos</div>
+            <img src="images/open_access_network_logo.jpeg"/>
           </div>
         </div>
     </div>
