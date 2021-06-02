@@ -499,16 +499,13 @@ layout: default
           </div>
           <div class="affiliations">
             <h5>Affiliations</h5>
-            <div>Logos</div>
-            <img src="images/open_access_network_logo.jpeg"/>
-            <br>
-            <img src="images/FHP_logo.png"/>
-            <br>
-            <img src="images/Huberlin-logo.png"/>
-            <br>
-            <img src="images/University_of_Berlin_logo.png"/>
-            <br>
-            <img src="images/open_access_berlin_logo.png"/>
+            <div class="logos-container">
+              <img src="images/open_access_network_logo.jpeg"/>
+              <img src="images/FHP_logo.png"/>
+              <img src="images/Huberlin-logo.png"/>
+              <img src="images/University_of_Berlin_logo.png"/>
+              <img src="images/open_access_berlin_logo.png"/>
+              </div>
           </div>
         </div>
     </div>

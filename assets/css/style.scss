@@ -255,8 +255,15 @@ $titles: 'Space Mono', monospace;
 
                 .socials-affiliations {
                     margin-left: 15%;
+                    // width: 10%;
                     .affiliations {
                         margin-top: 2rem;
+                        .logos-container {
+                            img {
+                                display: block;
+                                margin-top: 1.5rem;
+                            }
+                        }
                     }
                 }
             }
@@ -450,10 +457,19 @@ p {
                 }
                     .row {
                         display: grid;
-
                         .socials-affiliations {
+                            
                             margin-top: 2rem;
                             margin-left: 0;
+
+                            .affiliations {
+                                .logos-container {
+
+                                    img {
+                                        margin-top: 10px;
+                                    }
+                                }
+                            }
                         }
                     }
             }
