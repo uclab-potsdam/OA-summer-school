@@ -235,15 +235,26 @@ $titles: 'Space Mono', monospace;
                 display: inline-flex;
 
                 .about {
-                    width: 50%;
+                    width: 40%;
                     ul {
                         list-style-type: none;
                         padding: 0;
                         margin: 0;
+
+                        li {
+                            p {
+                                margin: 0;
+                                margin-bottom: 10px;
+                                font-size: 10px;
+                                line-height: 12px;
+                                padding: 0;
+                            }
+                        }
                     }
                 }
 
                 .socials-affiliations {
+                    margin-left: 15%;
                     .affiliations {
                         margin-top: 2rem;
                     }
@@ -441,6 +452,7 @@ p {
 
                         .socials-affiliations {
                             margin-top: 2rem;
+                            margin-left: 0;
                         }
                     }
             }
