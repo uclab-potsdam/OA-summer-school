@@ -463,6 +463,25 @@ layout: default
         Apply now
       </a>
       <p><a href="https://fhp.incom.org/workspace/9324">Go to Income space &#10132;</a></p>
+      <br>
+      <p class="additional-text">
+          Incom: 	https://fhp.incom.org/workspace/9324 <br>
+Kontakt: 	X <br>
+Termin :	6-17 September 2021, Mondays-Fridays at 9am–6pm <br>
+Room	:	TBD <br>
+Credits	:	5 ECTS <br>
+Module : <br>
+		FHP<br>
+        <ul>
+          <li>	- BA Design Hauptstudium: Projektwochen or Flex-Module </li>
+          <li>  - MA Design: Tutoring / Mentoring </li>
+          <li>  - MA Urbane Zukunft: 4.1 Fachliche Vertiefung / 4.2 Wahlfach </li>
+         </ul> <br> 
+		HU Berlin<br>
+        <ul>
+          <li> MA Information Science </li>
+      </ul>
+        </p>
     </div>
   </div>
 </section>
@@ -501,9 +520,13 @@ layout: default
             <h5>Affiliations</h5>
             <div>Logos</div>
             <img src="images/open_access_network_logo.jpeg"/>
-            <img src="images/FHP_logo.svg"/>
-            <img src="images/Huberlin-logo.svg"/>
-            <img src="images/University_of_Berlin_logo.svg"/>
+            <br>
+            <img src="images/FHP_logo.png"/>
+            <br>
+            <img src="images/Huberlin-logo.png"/>
+            <br>
+            <img src="images/University_of_Berlin_logo.png"/>
+            <br>
             <img src="images/open_access_berlin_logo.png"/>
           </div>
         </div>
