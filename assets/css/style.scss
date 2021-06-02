@@ -11,11 +11,11 @@ $titles: 'Space Mono', monospace;
 .page-header {
     background: $peach;
     color: $blue;
-    background-image: url("/images/key.png");
+    background-image: url("images/key.png");
     background-size: 25px;
     background-blend-mode: soft-light;
     /* fallback */
-    background-image: url("/images/key.png"),
+    background-image: url("images/key.png"),
     linear-gradient(0deg, lighten($peach, 100), $peach);
     /* W3C */
     background-repeat:repeat;

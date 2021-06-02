@@ -36,7 +36,7 @@ layout: default
 </section>
 <section class="outer-schedule">
   <div class="schedule">
-    <img src="/images/schedule_icon.png"/>
+    <img src="images/schedule_icon.png"/>
     <h1>Schedule</h1>
     <p>Preliminary workshops and keynotes, full schedule to be released upon registration.</p>
     <div class="schedules-container">
@@ -201,7 +201,7 @@ layout: default
 </section>
 <section class="description-outer">
 <div class="description-container">
-<img src="/images/key_icon.png"/>
+<img src="images/key_icon.png"/>
 <h1>Application</h1>
 <br>
 
@@ -223,7 +223,7 @@ Please use your university-email address for the application and do not forget t
 
 <section class="about-outer-container">
 <div class="about-inner">
-<img src="{{ /images/eyes_icon.png }}"/>
+<img src="images/eyes_icon.png"/>
 <h1>About</h1>
 <p2>The Summer School is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project open-access.network. Furthermore, the project "Kompetenzentwicklung Open Access Brandenburg" will also be involved in the Summer School.</p2>
 <div class="row">
