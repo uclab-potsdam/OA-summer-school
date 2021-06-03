@@ -126,8 +126,11 @@ $titles: 'Space Mono', monospace;
                             border: none;
                             border-left: 0px solid;
                             border-right: 0px solid;
-														width: 100px;
                         }
+												
+												tr td:first-child {
+													width: 100px;
+												}
 
                         th {
                             width: 550px;
