@@ -30,18 +30,18 @@ $titles: 'Space Mono', monospace;
 
         .main-logo {
             vertical-align: center;
-            margin-right: 50px;
+            // margin-right: 50px;
             padding-top: 5px;
-            background-color: aqua;
+            // background-color: aqua;
             display: inline;
             width: 20%;
             img {
-                max-width: 140px;
+                max-width: 120px;
             }
         }
 
         .inner-text {
-            background-color: aqua;
+            // background-color: aqua;
             width: 80%;
             text-align: left;
             line-height: 4rem;
@@ -368,10 +368,10 @@ p {
         height: 85vh;
         background: $peach;
         color: $blue;
-        background-image: url("/images/key.png");
+        background-image: url("/assets/css/key.png");
         background-size: 25px;
         background-blend-mode: soft-light;
-        background-image: url("/images/key.png"),
+        background-image: url("/assets/css/key.png"),
             linear-gradient(0deg, lighten($peach, 100), $peach);
         background-repeat: repeat;
 
@@ -386,21 +386,21 @@ p {
                 width: 100%;
 
                 img {
-                    max-width: 90%;
+                    max-width: 70%;
                 }
             }
 
             .inner-text {
+                margin-top: 2rem;
+                text-align: center;
                 width: 100%;
+
+                .project-mobile {
+                    display: grid;
+                }
 
                 .project-name {
                     display: none;
-                }
-
-                .project-mobile,
-                .project-tagline {
-                    margin-top: 2rem;
-                    margin-left: 2rem;
                 }
             }
         }
