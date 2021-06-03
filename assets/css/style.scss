@@ -29,6 +29,10 @@ $titles: 'Space Mono', monospace;
         display: inline-flex;
 
         .main-logo {
+            vertical-align: center;
+            margin-right: 50px;
+            padding-top: 5px;
+            background-color: aqua;
             display: inline;
             width: 20%;
             img {
@@ -37,6 +41,7 @@ $titles: 'Space Mono', monospace;
         }
 
         .inner-text {
+            background-color: aqua;
             width: 80%;
             text-align: left;
             line-height: 4rem;
