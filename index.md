@@ -28,7 +28,7 @@ layout: default
     <p>
       <a href="#description" class="btn">Apply now</a>
       <br>
-      <a href="">See full schedule &#10132;</a>
+      <a href="#schedule">See full schedule &#10132;</a>
       <br>
     </p>
   </div>
