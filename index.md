@@ -14,7 +14,7 @@ layout: default
     <div class="note">
       <p>
         <em>
-          Please note: The Summer School will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at Fachhochschule Potsdam, Freie Universität Berlin and Humboldt-Univerität zu Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.
+          Please note: The Summer School will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at Fachhochschule Potsdam, Freie Universität Berlin and Humboldt-Universität zu Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.
         </em>
       </p>  
   </div>
@@ -441,7 +441,7 @@ layout: default
     <div class="main-text">
       <p class="description-column">
         Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation!
-        The 25 participants of the Summer School will be preferably equally chosen fr om the participating institutions (FHP, IBI, FU) and we will aim for a balanced and diverse group of participants.
+        The 25 participants of the Summer School will be preferably equally chosen fr om the participating institutions (Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin) and we will aim for a balanced and diverse group of participants.
       </p>
       <div class="description-column">
       <p class="application-instructions">  
@@ -482,8 +482,8 @@ layout: default
             <li>Prof. Dr. Marian Dörk <br><p>UCLAB, University of Applied Sciences Potsdam</p></li>
             <li>Prof. Dr. Vivien Petras <br><p>Berlin School of Library and Information Science, Humboldt-Universität zu Berlin</p></li>
             <li>Maxi Kindling <br><p>Open-Access-Büro Berlin, Freie Universität Berlin / Berlin School of Library and Information Science, Humboldt-Universität</p></li>
-            <li>Dorothea Strecker <br><p>Berlin School of Library and Information Science, Humboldt-Universität</p> </li>
-            <li>Ben Kaden <br><p>Kompetenz- und Vernetzungsstelle zu Open Access in Brandenburg /  Berlin School of Library and Information Science, Humboldt-Universität</p></li>
+            <li>Dorothea Strecker <br><p>Berlin School of Library and Information Science, Humboldt-Universität zu Berlin</p> </li>
+            <li>Ben Kaden <br><p>Kompetenz- und Vernetzungsstelle zu Open Access in Brandenburg /  Berlin School of Library and Information Science, Humboldt-Universität zu Berlin</p></li>
             <li>Agnieszka Wenninger <br><p>Open-Access-Büro Berlin, Freie Universität Berlin</p></li>
             <li>Maike Neufend <br><p>Open-Access-Büro Berlin, Freie Universität Berlin</p></li>
             <li>Prof. Dr. Claudia Müller-Birn <br><p>Human-Centered Computing (HCC) Research Group, Freie Universität Berlin</p></li>
