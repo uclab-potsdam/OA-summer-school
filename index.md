@@ -496,13 +496,14 @@ layout: default
             <p><a href="https://twitter.com/search?q=%23voass&src=typed_query">#voass &#10132;</a></p>
           </div>
           <div class="affiliations">
-            <h5>Affiliations</h5>
+            <h5>Organizers</h5>
             <div class="logos-container">
-							<img src="images/open_access_network_logo.jpeg"/>
-              <img src="images/FHP_logo.png"/>
-              <img src="images/Huberlin-logo.png"/>
-              <img src="images/University_of_Berlin_logo.png"/>
-              <img src="images/open_access_berlin_logo.png"/>
+              <a href="https://www.fh-potsdam.de/"><img src="images/fhp.svg"/></a>
+							<a href="https://open-access.net/ueber-uns/oa-network"><img src="images/oanet.svg"/></a>
+              <a href="http://www.open-access-berlin.de/akteure/oabb/"><img src="images/oabuero.png"/></a>
+              <a href="https://www.hu-berlin.de"><img src="images/hu.svg"/></a>
+              <a href="https://www.fu-berlin.de"><img src="images/fu.svg"/></a>
+              <a href="https://uclab.fh-potsdam.de"><img src="images/uclab.svg"/></a>
               </div>
           </div>
         </div>
