@@ -28,14 +28,14 @@ layout: default
     <p>
       <a href="#description" class="btn">Apply now</a>
       <br>
-      See full schedule &#10132;
+      <a href="">See full schedule &#10132;</a>
       <br>
     </p>
   </div>
   </div>
 </section>
 <section class="outer-schedule">
-  <div class="schedule">
+  <div class="schedule" id="schedule">
     <img src="images/schedule_icon.png"/>
     <h1>Schedule</h1>
     <p>Preliminary workshops and keynotes, full schedule to be released upon registration.</p>
@@ -161,7 +161,7 @@ layout: default
             </tr>
             <tr>
               <td>15:30</td>
-              <td>Project Work</td>
+              <td>Project work</td>
             </tr>
             <tr>
               <td>17:30</td>
@@ -306,7 +306,7 @@ layout: default
           <tr>
             <td>13:30</td>
             <td>
-              Project Work 
+              Project work 
             </td>
           </tr>
           <tr>
@@ -320,10 +320,6 @@ layout: default
             <td>
               Wrap-up
             </td>
-          </tr>
-          <tr>
-            <td>15:30</td>
-            <td>Project Work</td>
           </tr>
         </table>
       </div>
@@ -347,7 +343,7 @@ layout: default
           <tr>
             <td>13:30</td>
             <td>
-              Project Work
+              Project work
             </td>
           </tr>
           <tr>
@@ -371,7 +367,7 @@ layout: default
         </tr>
         <tr>
           <td>09:30</td>
-          <td>Project Work</td>
+          <td>Project work</td>
         </tr>
         <tr>
           <td>12:00</td>
@@ -379,11 +375,11 @@ layout: default
         </tr>
         <tr>
           <td>13:30</td>
-          <td>Project Work</td>
+          <td>Project work</td>
         </tr>
         <tr>
           <td>15:00</td>
-          <td>Project Work</td>
+          <td>Project work</td>
         </tr>
         <tr>
           <td>17:00</td>
@@ -402,7 +398,7 @@ layout: default
         </tr>
         <tr>
           <td>09:30</td>
-          <td>Project Work</td>
+          <td>Project work</td>
         </tr>
         <tr>
           <td>10:30</td>
@@ -441,7 +437,7 @@ layout: default
     <div class="main-text">
       <p class="description-column">
         Interested participants should submit a short (max. 1 page) motivational statement and a short CV (max. 2 pages). In this statement you should list prior experiences, interests or knowledge that is relevant to the topic of the summer school. This could include, but is not limited to, expertise in areas that relate to aspects of Open Access and Open Science, attended courses e.g. in information science, experience in design, or other skills such as coding. Your application should clearly convey your interest in the topics of the summer school (Open Access, Open Science, Visualization). Don’t hesitate to apply even without any prior experience or skills in the above mentioned areas - as long as you can convey your interest and motivation you will be considered for participation!
-        The 25 participants of the Summer School will be preferably equally chosen fr om the participating institutions (Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin) and we will aim for a balanced and diverse group of participants.
+        The 25 participants of the Summer School will be preferably equally chosen fr om the participating institutions (Fachhochschule Potsdam, Humboldt-Universität zu Berlin, Freie Universität Berlin) and we will aim for a balanced and diverse group of participants.
       </p>
       <div class="description-column">
       <p class="application-instructions">  
@@ -472,7 +468,7 @@ layout: default
     <h1>About</h1>
       <div class="main-text">
           <p class="about-text">
-            The summer school is a cooperation between Fachhochschule Potsdam, Humboldt-Univerität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project <a href="https://open-access.net/ueber-uns/oa-network">open-access.network</a>. Furthermore, the Vernetzungs- und Kompetenzstelle zu Open Access in Brandenburg will also be involved in the summer school.
+            The summer school is a cooperation between Fachhochschule Potsdam, Humboldt-Universität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project <a href="https://open-access.net/ueber-uns/oa-network">open-access.network</a>. Furthermore, the Vernetzungs- und Kompetenzstelle zu Open Access in Brandenburg will also be involved in the summer school.
           </p>
       </div>
       <div class="row">
@@ -496,13 +492,13 @@ layout: default
         </div>
         <div class="socials-affiliations">
           <div class="socials">
-            <h5>Stay Updated</h5>
+            <h5>Stay updated</h5>
             <p><a href="https://twitter.com/search?q=%23voass&src=typed_query">#voass &#10132;</a></p>
           </div>
           <div class="affiliations">
             <h5>Affiliations</h5>
             <div class="logos-container">
-              <img src="images/open_access_network_logo.jpeg"/>
+							<img src="images/open_access_network_logo.jpeg"/>
               <img src="images/FHP_logo.png"/>
               <img src="images/Huberlin-logo.png"/>
               <img src="images/University_of_Berlin_logo.png"/>
