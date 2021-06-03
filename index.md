@@ -483,9 +483,11 @@ layout: default
             <li>Prof. Dr. Vivien Petras <br><p>Berlin School of Library and Information Science, Humboldt-Universität zu Berlin</p></li>
             <li>Maxi Kindling <br><p>Open-Access-Büro Berlin, Freie Universität Berlin / Berlin School of Library and Information Science, Humboldt-Universität</p></li>
             <li>Dorothea Strecker <br><p>Berlin School of Library and Information Science, Humboldt-Universität</p> </li>
-            <li>Ben Kaden <br><p>Kompetenz- und Vernetzungsstelle Open Access in Brandenburg /  Berlin School of Library and Information Science, Humboldt-Universität</p></li>
+            <li>Ben Kaden <br><p>Kompetenz- und Vernetzungsstelle zu Open Access in Brandenburg /  Berlin School of Library and Information Science, Humboldt-Universität</p></li>
             <li>Agnieszka Wenninger <br><p>Open-Access-Büro Berlin, Freie Universität Berlin</p></li>
             <li>Maike Neufend <br><p>Open-Access-Büro Berlin, Freie Universität Berlin</p></li>
+            <li>Prof. Dr. Claudia Müller-Birn <br><p>Human-Centered Computing (HCC) Research Group, Freie Universität Berlin</p></li>
+            <li>Katrin Glinka <br><p>Human-Centered Computing (HCC) Research Group, Freie Universität Berlin</p></li>
             <li>Linda Freyberg <br><p>UCLAB, University of Applied Sciences Potsdam / Museum für Naturkunde Berlin</p></li>
             <li>Arran Ridley <br><p>UCLAB, University of Applied Sciences Potsdam</p></li>
             <li>Francesca Morini <br><p>UCLAB, University of Applied Sciences Potsdam</p></li>
