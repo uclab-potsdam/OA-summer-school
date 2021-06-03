@@ -484,7 +484,7 @@ layout: default
             <li>Agnieszka Wenninger <br><p>Open-Access-Büro Berlin, Freie Universität Berlin</p></li>
           </ul>
         </div>
-        <div class="socials-affiliations">
+        <div class="row socials-affiliations">
           <div class="affiliations">
             <!-- <h5>Organizers</h5> -->
             <div class="logos-container">
