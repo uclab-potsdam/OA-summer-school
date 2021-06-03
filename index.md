@@ -229,22 +229,16 @@ layout: default
           </tr>
           <tr>
             <td>13:30</td>
-            <td>Interim Presentations</td>
+            <td>Interim presentations</td>
           </tr>
           <tr>
             <td>16:00</td>
-            <td>Evening Keynote</td>
+            <td>Evening keynote</td>
           </tr>
           <tr>
             <td>17:30</td>
             <td>Wrap-up</td>
           </tr>
-          <tr>
-              <td>17:30</td>
-              <td>
-                Wrap-up
-              </td>
-            </tr>
         </table>
         </div>
       </div>
