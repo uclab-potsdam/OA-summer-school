@@ -485,12 +485,11 @@ layout: default
           </ul>
         </div>
         <div class="socials-affiliations">
+          <div class="socials">
+          <h5>Stay updated</h5>
+            <p><a href="https://twitter.com/search?q=%23voass&src=typed_query">#voass &#10132;</a></p>
+          </div>
           <div class="affiliations">
-	          <div class="socials">
-            <h5>Stay updated</h5>
-	            <p><a href="https://twitter.com/search?q=%23voass&src=typed_query">#voass &#10132;</a></p>
-	          </div>
-						
             <h5>Affiliations</h5>
             <div class="logos-container">
               <a href="https://www.fh-potsdam.de/"><img alt="logo FHP" src="images/fhp.svg"/></a>
