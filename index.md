@@ -485,12 +485,8 @@ layout: default
           </ul>
         </div>
         <div class="socials-affiliations">
-          <div class="socials">
-            <h5>Stay updated</h5>
-            <p><a href="https://twitter.com/search?q=%23voass&src=typed_query">#voass &#10132;</a></p>
-          </div>
           <div class="affiliations">
-            <h5>Organizers</h5>
+            <!-- <h5>Organizers</h5> -->
             <div class="logos-container">
               <a href="https://www.fh-potsdam.de/"><img alt="logo FHP" src="images/fhp.svg"/></a>
               <a href="https://www.fu-berlin.de"><img alt="logo FU" src="images/fu.svg"/></a>
@@ -499,6 +495,10 @@ layout: default
 							<a href="https://open-access.net/ueber-uns/oa-network"><img alt="logo OA network" src="images/oanet.svg"/></a>
               <a href="https://uclab.fh-potsdam.de"><img alt="logo UCLAB" src="images/uclab.svg"/></a>
               </div>
+          </div>
+          <div class="socials">
+            <h5>Stay updated</h5>
+            <p><a href="https://twitter.com/search?q=%23voass&src=typed_query">#voass &#10132;</a></p>
           </div>
         </div>
     </div>
