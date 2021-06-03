@@ -493,10 +493,10 @@ layout: default
             <h5>Organizers</h5>
             <div class="logos-container">
               <a href="https://www.fh-potsdam.de/"><img alt="logo FHP" src="images/fhp.svg"/></a>
-							<a href="https://open-access.net/ueber-uns/oa-network"><img alt="logo OA network" src="images/oanet.svg"/></a>
-              <a href="http://www.open-access-berlin.de/akteure/oabb/"><img alt="logo OA büro" src="images/oabuero.png"/></a>
-              <a href="https://www.hu-berlin.de"><img alt="logo HU" src="images/hu.svg"/></a>
               <a href="https://www.fu-berlin.de"><img alt="logo FU" src="images/fu.svg"/></a>
+              <a href="https://www.hu-berlin.de"><img alt="logo HU" src="images/hu.svg"/></a>
+              <a href="http://www.open-access-berlin.de/akteure/oabb/"><img alt="logo OA büro" src="images/oabuero.png"/></a>
+							<a href="https://open-access.net/ueber-uns/oa-network"><img alt="logo OA network" src="images/oanet.svg"/></a>
               <a href="https://uclab.fh-potsdam.de"><img alt="logo UCLAB" src="images/uclab.svg"/></a>
               </div>
           </div>
