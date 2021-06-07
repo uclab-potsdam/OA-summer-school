@@ -12,7 +12,7 @@ $titles: 'Space Mono', monospace;
     background: $peach;
     color: $blue;
     background-image: url("key.png");
-    background-size: 25px;
+    background-size: 25px, 100%;
     background-blend-mode: soft-light;
     /* fallback */
     background-image: url("key.png"),
@@ -369,7 +369,7 @@ p {
         background: $peach;
         color: $blue;
         background-image: url("/assets/css/key.png");
-        background-size: 25px;
+        background-size: 25px, 100%;
         background-blend-mode: soft-light;
         background-image: url("/assets/css/key.png"),
             linear-gradient(0deg, lighten($peach, 100), $peach);
