@@ -454,6 +454,32 @@ layout: default
       </a>
       <p><a href="https://fhp.incom.org/workspace/9324">Go to Incom workspace &#10132;</a></p>
     </div>
+    <div class="details-container">
+      <div class="details-list">
+        <table>
+          <tr>
+            <td>Dates</td>
+            <td>6-17 September 2021, Mondays-Fridays at 9am–6pm</td>       
+          </tr>
+          <tr>
+            <td>Place</td>
+            <td>to be determined (on-site in Berlin or Potsdam / online via Zoom, etc.)</td>
+          </tr>
+          <tr>
+            <td>Levels</td>
+            <td>BA, MA, PhD</td>  
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>5 ECTS for students at Fachhochschule Potsdam (Design and Information Sciences) and at Humboldt-Universität zu Berlin (IBI)</td>
+          </tr>
+          <tr>
+            <td>Contact</td>
+            <td>oabb@open-access-berlin.de</td>
+          </tr>
+        </table>
+      </div>
+    </div>
   </div>
 </section>
 <section class="about-outer-container">
@@ -495,7 +521,7 @@ layout: default
               <a href="https://www.fh-potsdam.de/"><img alt="logo FHP" src="images/fhp.svg"/></a>
               <a href="https://www.fu-berlin.de"><img alt="logo FU" src="images/fu.svg"/></a>
               <a href="https://www.hu-berlin.de"><img alt="logo HU" src="images/hu.svg"/></a>
-              <a href="http://www.open-access-berlin.de/akteure/oabb/"><img alt="logo OA büro" src="images/oabuero.png"/></a>
+              <a href="http://www.open-access-berlin.de/akteure/oabb/"><img alt="logo OA büro" src="images/oabb_RGB.svg"/></a>
 							<a href="https://open-access.net/ueber-uns/oa-network"><img alt="logo OA network" src="images/oanet.svg"/></a>
               <a href="https://uclab.fh-potsdam.de"><img alt="logo UCLAB" src="images/uclab.svg"/></a>
               </div>

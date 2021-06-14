@@ -218,6 +218,20 @@ $titles: 'Space Mono', monospace;
                 }
             }
         }
+
+        .details-container {
+            margin-top: 5%;
+            .details-list {
+                table {
+                    border: 1px solid $peach;
+
+                    td, tr {
+                        border: 1px solid $peach;
+                        // padding-top: 0.5rem;
+                    }
+                }
+            }
+        }
     }
 
     section.about-outer-container {
@@ -274,7 +288,7 @@ $titles: 'Space Mono', monospace;
                         .logos-container {
                             img {
                                 display: block;
-                                margin-top: 1.5rem;
+                                margin-top: 2.5rem;
                             }
                         }
                     }
