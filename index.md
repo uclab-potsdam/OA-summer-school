@@ -14,14 +14,14 @@ layout: default
     <div class="note">
       <p>
         <em>
-          Please note: The summer school will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at Fachhochschule Potsdam, Freie Universität Berlin and Humboldt-Universität zu Berlin. Your participation benefits from basic knowledge of data structures and algorithms. The number of students is limited to 25.
+          Please note: The summer school will be given in English. It is targeted at advanced students enrolled in design, information science, or computer science at Fachhochschule Potsdam, Freie Universität Berlin and Humboldt-Universität zu Berlin. Students and researchers from other institutions are encouraged to apply as well. Your participation benefits from basic knowledge of data structures and algorithms. The number of participants is limited to 25.
         </em>
       </p>  
   </div>
   </div>
   <div class="column middle">
     <p>
-      The summer school will focus on visualizing open access in Germany (<a href="https://doi.org/10.5281/zenodo.4644125">Open Access Bundesländer-Atlas</a>) and beyond to raise awareness of this transformation in academic publishing. This summer school aims at providing students with an introduction to principles and methods of information visualization combined with an opportunity to apply general principles to specific visualization designs to exemplary use cases such as Open Access Bundesländer-Atlas. Lectures with experts from the fields of human-computer interaction, information science, and interface design from the cooperating institutions cover the topics of the fundamentals of information visualization e.g. mapping data to visual variables, and techniques for visualizing multidimensional, relational and textual data as well as an introduction to the concept of open access. Students will closely collaborate in small, interdisciplinary teams. The hands-on session tutorials complement the inputs during the lectures with practical activities and assignments directed towards a visual representation of the data. The summer school is a cooperation between Fachhochschule Potsdam, Humboldt-Universität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project <a href="https://open-access.net/ueber-uns/oa-network">open-access.network</a>. Furthermore, the Vernetzungs- und Kompetenzstelle zu Open Access in Brandenburg will also be involved in the summer school.
+      The summer school will focus on visualizing open access in Germany (<a href="https://doi.org/10.5281/zenodo.4644125">Open Access Bundesländer-Atlas</a>) and beyond to raise awareness of this transformation in academic publishing. This summer school aims at providing participants with an introduction to principles and methods of information visualization combined with an opportunity to apply general principles to specific visualization designs to exemplary use cases such as Open Access Bundesländer-Atlas. Lectures with experts from the fields of human-computer interaction, information science, and interface design from the cooperating institutions cover the topics of the fundamentals of information visualization e.g. mapping data to visual variables, and techniques for visualizing multidimensional, relational and textual data as well as an introduction to the concept of open access. Particicipants will closely collaborate in small, interdisciplinary teams. The hands-on session tutorials complement the inputs during the lectures with practical activities and assignments directed towards a visual representation of the data. The summer school is a cooperation between Fachhochschule Potsdam, Humboldt-Universität zu Berlin, Freie Universität Berlin and the Open-Access-Büro Berlin acting on behalf of the BMBF funded project <a href="https://open-access.net/ueber-uns/oa-network">open-access.network</a>. Furthermore, the Vernetzungs- und Kompetenzstelle zu Open Access in Brandenburg will also be involved in the summer school.
     </p>
   </div>
   <div class="column right">
@@ -398,7 +398,7 @@ layout: default
         <tr>
           <td>10:30</td>
             <td>
-             Student Project Presentations I
+             Project Presentations I
             </td>
         </tr>
         <tr>
@@ -407,7 +407,7 @@ layout: default
         </tr>
         <tr>
           <td>13:30</td>
-          <td>Student Project Presentations II</td>
+          <td>Project Presentations II</td>
         </tr>
         <tr>
           <td>15:00</td>
