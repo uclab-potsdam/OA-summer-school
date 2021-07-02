@@ -131,22 +131,23 @@ $titles: 'Space Mono', monospace;
                             border: none;
                             border-left: 0px solid;
                             border-right: 0px solid;
+
+                            span {
+                                background-color: $peach;
+                                padding: 0 0.5rem;
+                            }
+
                         }
 												
-												tr td:first-child {
-													width: 50px;
-												}
+                        tr td:first-child {
+                            width: 50px;
+                        }
 
                         th {
                             width: 550px;
                             text-align: left;
                             border-top: 0px solid;
                             border-bottom: 2px solid $blue;
-
-                            span {
-                                background-color: $peach;
-                                padding: 0 0.5rem;
-                            }
                         }
 
                         tbody {
@@ -223,10 +224,10 @@ $titles: 'Space Mono', monospace;
             margin-top: 5%;
             .details-list {
                 table {
-                    border: 1px solid $peach;
+                    // border: 1px solid $peach;
 
                     td, tr {
-                        border: 1px solid $peach;
+                        border: 2px solid $peach;
                         // padding-top: 0.5rem;
                     }
                 }

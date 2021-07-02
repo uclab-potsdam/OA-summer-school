@@ -86,7 +86,9 @@ layout: default
             <tr>
               <td>16:30</td>
               <td>
-                Evening keynote
+                <span>Evening keynote</span> by <a href="http://www.johannadrucker.net/">
+                  Johanna Drucker
+                </a>: Modeling Chronology and Temporality
               </td>
             </tr>
             <tr>
@@ -233,7 +235,7 @@ layout: default
           </tr>
           <tr>
             <td>16:00</td>
-            <td>Evening keynote</td>
+            <td><span>Evening keynote</span> by <a href="https://www.weizenbaum-institut.de/portrait/p/sonja-schimmler/">Sonja Schimmler</a></td>
           </tr>
           <tr>
             <td>17:30</td>
@@ -443,9 +445,6 @@ layout: default
           oabb@open-access-berlin.de</a>. 
         Please use your university email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF file.<br><br>
         </p>
-        <p class="additional-text">
-          Please mention in your application if you would be comfortable with attending events of the summer school in person if the legal and pandemic situation allows for it. This will help us organisers to assess the preferences of the participants. The stated preference will not impact the selection of participants.
-        </p>
       </div>
     </div>
     <div class="application-container">
@@ -463,7 +462,7 @@ layout: default
           </tr>
           <tr>
             <td>Place</td>
-            <td>to be determined (on-site in Berlin or Potsdam / online via Zoom, etc.)</td>
+            <td>online via Zoom</td>
           </tr>
           <tr>
             <td>Levels</td>
