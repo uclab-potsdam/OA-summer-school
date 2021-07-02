@@ -3,3 +3,5 @@ _site
 vendor
 Gemfile.lock
 .sass_cache
+.sass-cache/
+.DS_Store
