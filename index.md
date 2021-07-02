@@ -87,8 +87,7 @@ layout: default
               <td>16:30</td>
               <td>
                 <span>Evening keynote</span> by <a href="http://www.johannadrucker.net/">
-                  Johanna Drucker
-                </a>: Modeling Chronology and Temporality
+                  Johanna Drucker</a>: Modeling Chronology and Temporality
               </td>
             </tr>
             <tr>
@@ -281,7 +280,7 @@ layout: default
       <div class="day-two single-table">
         <table>
           <tr>
-            <th colspan="2">Tuesday, 14 September 2021 <span>Theory day!</span></th> 
+            <th colspan="2">Tuesday, 14 September 2021 <span>Theory day</span></th> 
           </tr>
           <tr>
             <td>09:00</td>
@@ -427,7 +426,7 @@ layout: default
     <h1>Application</h1>
     <div class="disclaimer deadline">
       <p>
-        Deadline for applications on 15 July 2021
+        Deadline: 15 July 2021
       </p>
     </div>
     <div class="main-text">
@@ -474,7 +473,8 @@ layout: default
           </tr>
           <tr>
             <td>Contact</td>
-            <td>oabb@open-access-berlin.de</td>
+            <td><a href="mailto:oabb@open-access-berlin.de?subject=OA Summer School Contact">
+          oabb@open-access-berlin.de</a></td>
           </tr>
         </table>
       </div>
