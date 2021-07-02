@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+  <!-- Favicon -->
+  <meta name="msapplication-TileImage" content="images/favicons/tile.png"> <!-- Windows 8 -->
+  <meta name="msapplication-TileColor" content="#240F56"/> <!-- Windows 8 color -->
+  <!--[if IE]><link rel="shortcut icon" href="images/favicons/favicon.ico"><![endif]-->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/favicon.png"><!-- iPad Retina-->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/favicon.png"><!--iPhone Retina -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/favicon.png"><!-- iPad 1 e 2 -->
+  <link rel="apple-touch-icon-precomposed" href="images/favicon.png"><!-- iPhone, iPod e Android 2.2+ -->
+
+	<meta name="description" content="Visualizing Open Access Summer School · 6 – 17 September 2021">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://uclab.fh-potsdam.de/visoa/">
+	<meta property="og:title" content="Visualizing Open Access Summer School · 6 – 17 September 2021">
+	<meta property="og:description" content="What if the results from publicly funded research were freely available to everyone?">
+	<meta property="og:image" content="https://uclab.fh-potsdam.de/visoa/images/preview.png">	
+	<meta name="twitter:card" content="summary_large_image">
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#240F56">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <!-- To avoid style.css 404, add /visoa/ before /assets/ before building. -->
+    <link rel="stylesheet" href="{{ '/visoa/assets/css/style.css' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <div class="title-container">
+        <div class="main-logo"><img src="images/OASummer_logoblue-desk.svg"/></div>
+        <div class="mobile-logo"><img src="images/OASummer_logoblue.svg"/></div>
+        <div class="inner-text">
+          <h1 class="project-name">Visualizing Open Access Summer School</h1>
+          <h2 class="project-mobile">Summer School</h2>
+          <h2 class="project-tagline">6 – 17 September 2021, Online</h2>
+        </div>
+      </div>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <!-- <span>UCLAB Potsdam &copy; 2021</span> -->
+
+        <div class="socials">
+        <h5>Stay updated</h5>
+          <p><a href="https://twitter.com/search?q=%23visoa&src=typed_query">#visOA &#10132;</a></p>
+        </div>				
+
+      </footer>
+    </main>
+  </body>
+</html>

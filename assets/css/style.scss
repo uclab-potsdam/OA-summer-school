@@ -1,0 +1,506 @@
+---
+---
+
+@import "{{ 'jekyll-theme-cayman' }}";
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Work+Sans:ital@0;1&display=swap');
+$blue: #240F56;
+$peach: #F9BB94;
+$titles: 'Space Mono', monospace;
+
+
+.page-header {
+    background: $peach;
+    color: $blue;
+    background-image: url("key.png");
+    background-size: 25px, 100%;
+    background-blend-mode: soft-light;
+    /* fallback */
+    background-image: url("key.png"),
+    linear-gradient(0deg, lighten($peach, 100), $peach);
+    /* W3C */
+    background-repeat:repeat;
+    font-family: $titles;
+
+    .title-container {
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 2%;
+
+        display: inline-flex;
+
+        .main-logo {
+            vertical-align: center;
+            // margin-right: 50px;
+            padding-top: 5px;
+            // background-color: aqua;
+            display: inline;
+            width: 20%;
+            img {
+                max-width: 120px;
+            }
+        }
+
+        .inner-text {
+            // background-color: aqua;
+            width: 80%;
+            text-align: left;
+            line-height: 4rem;
+            padding-left: 2%;
+
+            .project-mobile {
+                display: none;
+            }
+
+            h1 {
+                font-size: 60px;
+            }
+
+            h2 {
+                color: $blue;
+                line-height: 1.5rem;
+            }
+        }
+    }
+}
+
+.main-content {
+    color: $blue;
+    font-family: 'Work Sans', sans-serif;
+    max-width: 95%;
+    font-size: 16px;
+    // background-color: antiquewhite;
+    padding: 2rem 4rem;
+
+    a {
+        color: darken($peach, 20);
+    }
+
+    p {
+        padding-left: 0;
+    }
+
+    .row {
+        margin-top: 1rem;
+        // background-color: aqua;
+    }
+
+    h1, h2, h3, h4, h5 {
+        color: $blue;
+        font-family: $titles;
+        font-weight: 700;
+    }
+
+    section.outer-schedule {
+        margin-top: 10rem;
+        // background-color:burlywood;
+        .schedule {
+            img {
+                width: 50px;
+            }
+
+            h1 {
+                font-family: $titles;
+                font-size: 60px;
+                font-weight: 700;
+                color: $blue;
+                margin: 0;
+            }
+
+            .week-one, .week-two {
+                h2 {
+                    display: inline-block;
+                    border: 1px solid $blue;
+                    padding: 0.2rem 0.5rem;
+                }
+
+                .schedules-container {
+                    display: inline-flex;
+                    flex-wrap: wrap;
+                    width: 100%;
+
+                    table {
+                        width: 550px;
+                        margin-top: 10px;
+                        margin-right: 40px;
+                        padding: 10px 0px;
+                        font-size: 14px;
+                        font-family: $titles;
+
+                        th,
+                        tr td {
+                            border: none;
+                            border-left: 0px solid;
+                            border-right: 0px solid;
+
+                            span {
+                                background-color: $peach;
+                                padding: 0 0.5rem;
+                            }
+
+                        }
+												
+                        tr td:first-child {
+                            width: 50px;
+                        }
+
+                        th {
+                            width: 550px;
+                            text-align: left;
+                            border-top: 0px solid;
+                            border-bottom: 2px solid $blue;
+                        }
+
+                        tbody {
+                            tr {
+                                border-bottom: 0.5px solid $blue;
+                            }
+                        }
+                    }
+                }
+
+            }
+
+            .week-two {
+                margin-top: 6rem;
+            }
+        }
+    }
+
+    section.description-outer {
+        margin-top: 10rem;
+        .description-container {
+            width: 100%;
+            img {
+                width: 50px;
+            }
+
+            h1 {
+                font-family: $titles;
+                font-size: 60px;
+                font-weight: 700;
+                color: $blue;
+                margin: 0;
+            }
+
+            .disclaimer {
+                display: inline-block;
+                p {
+                    padding: 0.5rem;
+                    background-color: $peach;
+                }
+            }
+
+            .main-text {
+                display: inline-flex;
+
+                .description-column {
+                    width: 50%;
+                    margin-top: 0;
+
+                    .application-instructions {
+                        margin-bottom: 0;
+                    }
+
+                    .additional-text {
+                        margin: 0;
+                        margin-left: 1rem; 
+                        padding: 1rem;
+                        border: 1px solid $peach;
+                    }
+                }
+            }
+
+            .application-container {
+                margin-top: 2rem;
+                display: inline-flex;
+                p {
+                    margin: 0;
+                    margin-left: 2rem;
+                }
+            }
+        }
+
+        .details-container {
+            margin-top: 5%;
+            .details-list {
+                table {
+                    // border: 1px solid $peach;
+
+                    td, tr {
+                        border: 2px solid $peach;
+                        // padding-top: 0.5rem;
+                    }
+                }
+            }
+        }
+    }
+
+    section.about-outer-container {
+        margin-top: 10rem;
+
+        .about-inner {
+            img {
+                width: 100px;
+            }
+
+            h1 {
+                font-family: $titles;
+                font-size: 60px;
+                font-weight: 700;
+                color: $blue;
+                margin: 0;
+            }
+
+            .main-text {
+                width: 100%;
+                .about-text {
+                    width: 50%;
+                }
+            }
+
+            .row {
+                width: 100%;
+                display: inline-flex;
+
+                .about {
+                    width: 40%;
+                    ul {
+                        list-style-type: none;
+                        padding: 0;
+                        margin: 0;
+
+                        li {
+                            p {
+                                margin: 0;
+                                margin-bottom: 10px;
+                                font-size: 10px;
+                                line-height: 12px;
+                                padding: 0;
+                            }
+                        }
+                    }
+                }
+
+                .socials-affiliations {
+                    margin-left: 15%;
+                    // width: 10%;
+                    .affiliations {
+                        margin-top: 2rem;
+                        .logos-container {
+                            img {
+                                display: block;
+                                margin-top: 2.5rem;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+.btn {
+    background-color: $peach;
+    transition: box-shadow 0.5s;
+    /* Green */
+    border-radius: 0;
+    border: none;
+    color: $blue !important;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 5px 5px 0px $blue;
+    font-family: 'Space Mono', monospace;
+}
+
+.btn:hover {
+   color: white !important;
+   transition: box-shadow 0.5s, background-color 0.5s;
+   background-color: $blue;
+   box-shadow: 0px 0px 0px $blue;
+}
+/* Set additional styling options for the columns */
+.column {
+    float: left;
+
+    p {
+        padding-left: 0;
+    }
+}
+
+/* Set width length for the left, right and middle columns */
+.left {
+    margin-right: 5%;
+    width: 35%;
+
+    .initial-quote {
+        color: $blue;
+        font-style: italic;
+    }
+
+    .note {
+        font-size: 12px;
+    }
+}
+
+.middle {
+    margin-right: 10%;
+    width: 35%;
+}
+
+.right {
+    width: 15%;
+    p {
+        font-family: 'Space Mono', monospace;
+        font-size: 12px;
+        text-align: center;
+    }
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+p {
+        padding: 15px;
+      }
+
+
+      .about {
+        float: left;
+        width: 50%;
+        }
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    .page-header {
+        height: 85vh;
+        background: $peach;
+        color: $blue;
+        background-image: url("/assets/css/key.png");
+        background-size: 25px, 100%;
+        background-blend-mode: soft-light;
+        background-image: url("/assets/css/key.png"),
+            linear-gradient(0deg, lighten($peach, 100), $peach);
+        background-repeat: repeat;
+
+        .title-container {
+            display: grid;
+
+            .main-logo {
+                display: none;
+            }
+
+            .mobile-logo {
+                width: 100%;
+
+                img {
+                    max-width: 70%;
+                }
+            }
+
+            .inner-text {
+                margin-top: 2rem;
+                text-align: center;
+                width: 100%;
+
+                .project-mobile {
+                    display: grid;
+                }
+
+                .project-name {
+                    display: none;
+                }
+            }
+        }
+
+    }
+    
+    .main-content {
+        h1 {
+            font-size: 40px !important;
+        }
+        section.outer-introduction {
+            .row {
+                .column {
+                    width: 100%;
+                    padding: 0;
+                }
+            }
+        }
+
+        section.outer-schedule {
+            .schedule {
+                .week-one, .week-two {
+                    .schedules-container {
+                        .single-table {
+                            width: 100%;
+
+                            table {
+                                width: 100%;
+                                margin: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        section.description-outer {
+            .description-container {
+                .main-text {
+                    display: grid;
+
+                    .description-column {
+                        width: 100%;
+
+                        .additional-text {
+                            margin: 0;
+                        }
+                    }
+                }
+                .application-container {
+                    display: grid;
+
+                    p {
+                        margin: 0;
+                        text-align: center;
+                    }
+                }
+            }
+        }
+
+        section.about-outer-container {
+            .about-inner {
+                .main-text {
+                    .about-text {
+                        width: 100%;
+                    }
+                }
+                    .row {
+                        display: grid;
+                        .socials-affiliations {
+                            
+                            margin-top: 2rem;
+                            margin-left: 0;
+
+                            .affiliations {
+                                .logos-container {
+
+                                    img {
+                                        margin-top: 40px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+            }
+        }
+    }
+}
