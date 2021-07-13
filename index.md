@@ -234,7 +234,8 @@ layout: default
           </tr>
           <tr>
             <td>16:00</td>
-            <td><span>Evening keynote</span> by <a href="https://www.weizenbaum-institut.de/portrait/p/sonja-schimmler/">Sonja Schimmler</a></td>
+            <td><span>Evening keynote</span> by <a href="https://www.weizenbaum-institut.de/portrait/p/sonja-schimmler/">Sonja Schimmler</a>:
+						Research Knowledge Graphs and their Visualization</td>
           </tr>
           <tr>
             <td>17:30</td>
