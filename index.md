@@ -467,16 +467,15 @@ layout: default
           The deadline for your submission was 15 July 2021, submissions are now closed.
         </span> 
         To <b>access keynotes</b>, please send a note to the following address: 
-        <a href="mailto:oabb@open-access-berlin.de?subject=OA Summer School Application">
+        <a href="mailto:oabb@open-access-berlin.de?subject=OA Summer School Keynotes: request for access">
           oabb@open-access-berlin.de</a>. 
         </p>
       </div>
     </div>
     <div class="application-container">
-      <a href="mailto:oabb@open-access-berlin.de?subject=OA Summer School Application" class="btn">
+      <a href="mailto:oabb@open-access-berlin.de?subject=OA Summer School Keynotes: request for access" class="btn">
         Request guest access to keynotes
       </a>
-      <p><a href="https://fhp.incom.org/workspace/9324">Go to Incom workspace &#10132;</a></p>
     </div>
     <div class="details-container">
       <div class="details-list">
