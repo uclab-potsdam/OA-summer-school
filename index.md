@@ -26,7 +26,7 @@ layout: default
   </div>
   <div class="column right">
     <p>
-      <a href="#description" class="btn">Apply now</a>
+      <a href="#description" class="btn btn-inactive">Access keynotes</a>
       <br>
       <a href="#schedule">See full schedule &#10132;</a>
       <br>
@@ -64,8 +64,8 @@ layout: default
               <td>Open Access and Open research in Berlin</td>
             </tr>
             <tr>
-              <td>11:45</td>
-              <td>OA as research topic for Library and Information Science</td>
+              <td>12:00</td>
+              <td>Data Visualization Basics</td>
             </tr>
             <tr>
               <td>12:30</td>
@@ -74,19 +74,19 @@ layout: default
             <tr>
               <td>14:00</td>
               <td>
-                Introduction to the data set - Bundesländer-Atlas OA
+                Introduction to data - Bundesländer-Atlas OA
               </td>
             </tr>
             <tr>
               <td>15:00</td>
               <td>
-                Team building / sketching exercise 
+                Team building
               </td>
             </tr>
             <tr>
               <td>16:30</td>
               <td>
-                <span>Evening keynote</span> by <a href="http://www.johannadrucker.net/">
+                <span>Keynote</span> by <a href="http://www.johannadrucker.net/">
                   Johanna Drucker</a>: Modeling Chronology and Temporality
               </td>
             </tr>
@@ -209,6 +209,12 @@ layout: default
                 Wrap-up
               </td>
            </tr>
+            <tr>
+              <td>18:00</td>
+              <td>
+                Dinner in Potsdam (optional)
+              </td>
+           </tr>
         </table>
         </div>
         <div class="day-five single-table">
@@ -234,7 +240,7 @@ layout: default
           </tr>
           <tr>
             <td>16:00</td>
-            <td><span>Evening keynote</span> by <a href="https://www.weizenbaum-institut.de/portrait/p/sonja-schimmler/">Sonja Schimmler</a>:
+            <td><span>Keynote</span> by <a href="https://www.weizenbaum-institut.de/portrait/p/sonja-schimmler/">Sonja Schimmler</a>:
 						Research Knowledge Graphs and their Visualization</td>
           </tr>
           <tr>
@@ -258,7 +264,7 @@ layout: default
           </tr>
           <tr>
             <td>09:30</td>
-            <td>Analyzing open data sources with R</td>
+            <td>Analyzing open data sources for Open Access using R</td>
           </tr>
           <tr>
             <td>12:00</td>
@@ -330,7 +336,7 @@ layout: default
           </tr>
           <tr>
             <td>09:30</td>
-            <td>Lecture: Data Feminism/ critical/ ethical vis</td>
+            <td>Project Work</td>
           </tr>
           <tr>
             <td>12:00</td>
@@ -363,7 +369,11 @@ layout: default
         </tr>
         <tr>
           <td>09:30</td>
-          <td>Project work</td>
+          <td>Lecture: Data Feminism</td>
+        </tr>
+        <tr>
+          <td>10:15</td>
+          <td>Reading group</td>
         </tr>
         <tr>
           <td>12:00</td>
@@ -380,6 +390,10 @@ layout: default
         <tr>
           <td>17:00</td>
           <td>Wrap-up</td>
+        </tr>
+        <tr>
+          <td>18:00</td>
+          <td>Dinner in Berlin (optional)</td>
         </tr>
       </table>
       </div>
@@ -412,7 +426,19 @@ layout: default
         </tr>
         <tr>
           <td>15:00</td>
-          <td>Final Wrap-up</td>
+          <td>Jury sets scores</td>
+        </tr>
+        <tr>
+          <td>15:30</td>
+          <td>Mentoring Debrief and Advice</td>
+        </tr>
+        <tr>
+          <td>16:30</td>
+          <td>Feedback</td>
+        </tr>
+        <tr>
+          <td>17:30</td>
+          <td>Wrap-up</td>
         </tr>
       </table>
       </div>
@@ -427,7 +453,7 @@ layout: default
     <h1>Application</h1>
     <div class="disclaimer deadline">
       <p>
-        Deadline: 15 July 2021
+        Submissions are closed.
       </p>
     </div>
     <div class="main-text">
@@ -438,18 +464,17 @@ layout: default
       <div class="description-column">
       <p class="application-instructions">  
         <span>
-          The deadline for your submission is 15 July 2021.
+          The deadline for your submission was 15 July 2021, submissions are now closed.
         </span> 
-        To apply, please send in your application to the following address: 
+        To <b>access keynotes</b>, please send a note to the following address: 
         <a href="mailto:oabb@open-access-berlin.de?subject=OA Summer School Application">
           oabb@open-access-berlin.de</a>. 
-        Please use your university email address for the application and do not forget to provide the following information: first name, surname, university, degree program, semester. Please send all documents in one PDF file.<br><br>
         </p>
       </div>
     </div>
     <div class="application-container">
       <a href="mailto:oabb@open-access-berlin.de?subject=OA Summer School Application" class="btn">
-        Apply now
+        Request guest access to keynotes
       </a>
       <p><a href="https://fhp.incom.org/workspace/9324">Go to Incom workspace &#10132;</a></p>
     </div>
@@ -495,6 +520,7 @@ layout: default
         <div class="about">
           <h5>Team</h5>
           <ul>
+            <li>Sara Akhlaq <br><p>UCLAB, University of Applied Sciences Potsdam</p></li>
             <li>Marian Dörk <br><p>UCLAB, University of Applied Sciences Potsdam</p></li>
             <li>Linda Freyberg <br><p>UCLAB, University of Applied Sciences Potsdam / Museum für Naturkunde Berlin</p></li>
             <li>Katrin Glinka <br><p>Human-Centered Computing (HCC) Research Group, Freie Universität Berlin</p></li>
@@ -506,6 +532,7 @@ layout: default
             <li>Maike Neufend <br><p>Open-Access-Büro Berlin, Freie Universität Berlin</p></li>
             <li>Vivien Petras <br><p>Berlin School of Library and Information Science, Humboldt-Universität zu Berlin</p></li>
             <li>Arran Ridley <br><p>UCLAB, University of Applied Sciences Potsdam</p></li>
+            <li>Hannah Schwan <br><p>UCLAB, University of Applied Sciences Potsdam</p></li>
             <li>Dorothea Strecker <br><p>Berlin School of Library and Information Science, Humboldt-Universität zu Berlin</p> </li>
             <li>Agnieszka Wenninger <br><p>Open-Access-Büro Berlin, Freie Universität Berlin</p></li>
           </ul>

@@ -4,7 +4,9 @@
 @import "{{ 'jekyll-theme-cayman' }}";
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Work+Sans:ital@0;1&display=swap');
 $blue: #240F56;
+$grayblue: #5c5370;
 $peach: #F9BB94;
+$lightpeach: #ffe6d6;
 $titles: 'Space Mono', monospace;
 
 
@@ -313,6 +315,10 @@ $titles: 'Space Mono', monospace;
     font-size: 16px;
     box-shadow: 5px 5px 0px $blue;
     font-family: 'Space Mono', monospace;
+}
+
+.btn-inactive {
+    padding: 15px 12px;
 }
 
 .btn:hover {
