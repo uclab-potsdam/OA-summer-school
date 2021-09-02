@@ -10,3 +10,7 @@ You might need to do this beforehand:
 
 `bundle install`
 `bundle add webrick`
+
+To deploy for production:
+
+`bundle exec jekyll build`
